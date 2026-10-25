@@ -63,7 +63,7 @@ Choose the route closest to the role you are filling. Each page gives you a focu
 <td width="50%" valign="top">
 <h3 id="civilian66-game-design"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/project-titles/civilian66-game-design.svg" alt="Civilian 66 gameplay systems, progression and technical design portfolio" width="100%"></a></h3>
 <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Civilian66-Public/main/assets/civilian66-bible-cover.png" alt="Civilian 66 game direction, from the underground Mines to the alien surface" width="100%"></a>
-<p>Game design portfolio focused on progression, settlement systems, campaign structure, and implementation-aware design.</p>
+<p>Game design portfolio with the Civilian 66 character lineup, progression case studies, and a proposed Bloopi plush line.</p>
 <p><strong>Project status:</strong> independent game in development. The public project page is a curated showcase, not a playable release.</p>
 <p><a href="https://github.com/RawPowered/Game-Design-Portfolio#selected-design-work">Review design work</a> · <a href="https://github.com/RawPowered/Civilian66-Public">Game overview and code sets</a></p>
 </td>
