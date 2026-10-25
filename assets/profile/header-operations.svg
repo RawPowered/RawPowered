@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250" role="img" aria-labelledby="title desc">
-<title id="title">Systems, automation and interfaces</title><desc id="desc">Joseph Edwards: SaaS operations, CRM integrations, web and product design. A small diagram connects intake, workflow and review.</desc>
-<rect width="1400" height="250" rx="16" fill="#132A36"/><path d="M0 0H1400" stroke="#28BAAA" stroke-width="8"/>
-<text x="48" y="54" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#88DBD0">JOSEPH EDWARDS / RAWPOWERED</text>
-<text x="46" y="121" font-family="Georgia,serif" font-size="48" fill="#F8F3E9">Systems. Automation. Interfaces.</text>
-<text x="49" y="167" font-family="Arial,sans-serif" font-size="21" fill="#C6D5DC">SaaS operations · CRM integrations · Web &amp; product design</text>
-<path d="M49 199H860" stroke="#35515F"/><text x="49" y="225" font-family="Arial,sans-serif" font-size="15" fill="#A5BCC7">UNDERSTAND THE WORK / BUILD THE TOOL / MAKE THE EVIDENCE CLEAR</text>
-<path d="M1107 66V185" stroke="#4D7181" stroke-width="2"/>
-<rect x="975" y="38" width="264" height="44" rx="9" fill="#20585D"/><text x="1000" y="66" font-family="Arial,sans-serif" font-size="17" fill="#E2FFFA">01   INTAKE</text>
-<rect x="1010" y="104" width="264" height="44" rx="9" fill="#344D79"/><text x="1035" y="132" font-family="Arial,sans-serif" font-size="17" fill="#E8F0FF">02   WORKFLOW</text>
-<rect x="1045" y="170" width="264" height="44" rx="9" fill="#594876"/><text x="1070" y="198" font-family="Arial,sans-serif" font-size="17" fill="#F5EDFF">03   REVIEW</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-labelledby="title desc">
+<title id="title">Systems, automation and interfaces</title><desc id="desc">Joseph Edwards builds practical systems, CRM and API integrations, automation, and responsive interfaces. A compact signal path shows intake, automation, and review.</desc>
+<rect width="1400" height="260" fill="#08090A"/>
+<path d="M805 0h128L806 260H678zM1000 0h118L993 260H875zM1190 0h132L1191 260h-132z" fill="#111315"/>
+<path d="M0 0h520l-7 6H0z" fill="#D5FF3F"/>
+<path d="M48 52h12l-8 16H40z" fill="#D5FF3F"/><text x="72" y="65" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#BFC3C8">JOSEPH EDWARDS / RAWPOWERED</text>
+<text x="48" y="124" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#F6F7F8">Systems. Automation.</text>
+<text x="48" y="181" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#F6F7F8">Interfaces<span fill="#D5FF3F">.</span></text>
+<text x="51" y="219" font-family="Arial,sans-serif" font-size="20" fill="#BFC3C8">CRM + APIs  /  workflow automation  /  responsive products</text>
+<path d="M1050 40v180" stroke="#36393C" stroke-width="1"/>
+<text x="1082" y="61" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#D5FF3F">BUILD / OPERATE / IMPROVE</text>
+<path d="M1082 82h249" stroke="#36393C"/>
+<text x="1083" y="117" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#F6F7F8">01</text><text x="1125" y="117" font-family="Arial,sans-serif" font-size="17" fill="#CFD2D5">INTAKE</text>
+<path d="M1082 132h249" stroke="#292C2F"/>
+<text x="1083" y="166" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#F6F7F8">02</text><text x="1125" y="166" font-family="Arial,sans-serif" font-size="17" fill="#CFD2D5">AUTOMATION</text>
+<path d="M1082 181h249" stroke="#292C2F"/>
+<text x="1083" y="215" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#F6F7F8">03</text><text x="1125" y="215" font-family="Arial,sans-serif" font-size="17" fill="#CFD2D5">REVIEW</text>
+<path d="M1322 101l9 9-9 9" fill="none" stroke="#D5FF3F" stroke-width="2"/><path d="M1322 150l9 9-9 9" fill="none" stroke="#D5FF3F" stroke-width="2"/><path d="M1322 199l9 9-9 9" fill="none" stroke="#D5FF3F" stroke-width="2"/>
 </svg>

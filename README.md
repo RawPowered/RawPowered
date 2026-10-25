@@ -1,6 +1,6 @@
 # Joseph Edwards
 
-![Systems, automation and interfaces](assets/profile/header-operations.svg)
+![Systems, automation and interfaces — CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
 
 I build the systems teams and customers use: SaaS operations, CRM and API integrations, workflow automation, and responsive web experiences. I bring operational ownership, practical engineering, and product design together.
 
@@ -12,11 +12,11 @@ I build the systems teams and customers use: SaaS operations, CRM and API integr
 
 ## Choose a review path
 
-<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and AI evaluation portfolio" height="68"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="68"></a> <a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="68"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="68"></a>
+<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and AI evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
 
 ### Specialist portfolios
 
-<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/buttons/web-dark.svg" alt="Web design, mobile UX and WordPress portfolio" height="62"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/buttons/marketing-dark.svg" alt="Marketing, SEO and performance portfolio" height="62"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/buttons/identity-dark.svg" alt="Identity, privacy and data provenance portfolio" height="62"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/buttons/api-dark.svg" alt="API integration and automation portfolio" height="62"></a>
+<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/buttons/web-dark.svg" alt="Web design, mobile UX and WordPress portfolio" height="66"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/buttons/marketing-dark.svg" alt="Marketing, SEO and performance portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/buttons/identity-dark.svg" alt="Identity, privacy and data provenance portfolio" height="66"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/buttons/api-dark.svg" alt="API integration and automation portfolio" height="66"></a>
 
 Each route is a short, evidence-linked review. Private implementations, fictional tours, and work still awaiting acceptance are labeled in the linked case.
 

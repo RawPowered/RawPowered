@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="62" viewBox="0 0 280 62" role="img" aria-label="Identity, privacy and data provenance"><rect x="1" y="1" width="278" height="60" rx="12" fill="#090A0B" stroke="#45484D" stroke-width="2"/><rect x="1" y="13" width="4" height="36" rx="2" fill="#BBA2FF"/><text x="20" y="25" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#AFB3BA">IDENTITY / PRIVACY</text><text x="20" y="47" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Identity + data provenance  ↗</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="66" viewBox="0 0 250 66" role="img" aria-label="Data provenance, identity and privacy">
+<path d="M0 0h229l21 18v48H18L0 48z" fill="#090A0B" stroke="#373A3D" stroke-width="1.5"/>
+<path d="M0 0h92l-4 4H0z" fill="#D5FF3F"/>
+<path d="M223 1h6l20 17v13l-26-22z" fill="#1B1D1F"/>
+<path d="M222 0h7l21 18" fill="none" stroke="#73787D" stroke-width="1"/>
+<text x="17" y="25" font-family="Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.3" fill="#AEB3B8">IDENTITY / PRIVACY</text>
+<text x="17" y="49" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F7F8F9">Data provenance</text>
+<path d="M218 39h14m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+</svg>

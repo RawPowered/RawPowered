@@ -1,40 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="780" viewBox="0 0 1400 780" role="img" aria-labelledby="title desc">
 <title id="title">Security and privacy engineering across the portfolio</title>
 <desc id="desc">Three documented boundaries: portal identity, role and record scope; distinct service and worker credentials; owner-aware removal of listed private fields before a public response. These are architecture summaries with project-specific verification limits.</desc>
-<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#91b2bc"/></marker></defs>
-<rect width="1400" height="780" fill="#12232e"/>
-<text x="62" y="69" fill="#93d7cd" font-family="Arial,sans-serif" font-size="17" letter-spacing="2.5">SECURITY &amp; PRIVACY ENGINEERING</text>
-<text x="60" y="128" fill="#f4efe5" font-family="Georgia,serif" font-size="44">Make the boundaries visible.</text>
-<text x="64" y="168" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="19">Access decisions, credential scope and private-to-public data flow.</text>
-<rect x="62" y="214" width="1276" height="139" rx="13" fill="#1c2d3b" stroke="#38505e"/>
-<rect x="62" y="214" width="7" height="139" rx="3" fill="#b19bdf"/>
-<text x="87" y="251" fill="#cdbdea" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">305UGC / PORTAL ACCESS</text>
-<text x="88" y="294" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Signed-in identity</text>
-<path d="M292 287H340" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="366" y="294" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Role &amp; capability</text>
-<path d="M568 287H619" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="647" y="294" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Record membership</text>
-<path d="M875 287H925" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="952" y="294" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Scoped response</text>
-<text x="88" y="328" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="16">Account approval, request approval and project access remain separate decisions.</text>
-<rect x="62" y="375" width="1276" height="139" rx="13" fill="#1c2d3b" stroke="#38505e"/>
-<rect x="62" y="375" width="7" height="139" rx="3" fill="#81bce4"/>
-<text x="87" y="412" fill="#a4d1ee" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">DIVE DEEP / CREDENTIAL BOUNDARIES</text>
-<text x="88" y="455" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Service identity</text>
-<path d="M292 448H340" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="366" y="455" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Matching API scope</text>
-<path d="M600 448H650" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="677" y="455" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">External-safe fields</text>
-<text x="88" y="489" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="16">Customer, integration, worker and administrator credentials have distinct documented scopes.</text>
-<rect x="62" y="536" width="1276" height="139" rx="13" fill="#1c2d3b" stroke="#38505e"/>
-<rect x="62" y="536" width="7" height="139" rx="3" fill="#d7b26e"/>
-<text x="87" y="573" fill="#e5c68f" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">RAWGRADED / PRIVATE-TO-PUBLIC OUTPUT</text>
-<text x="88" y="616" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Certificate request</text>
-<path d="M306 609H351" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="377" y="616" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Owner-session check</text>
-<path d="M631 609H677" stroke="#91b2bc" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="705" y="616" fill="#f4efe5" font-family="Arial,sans-serif" font-size="21">Remove listed private fields</text>
-<text x="88" y="650" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="16">Non-owner responses omit acquisition details, tracking, private notes and receipt imagery.</text>
-<text x="64" y="728" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="17">Documented architecture and reviewed source. Follow the evidence links for scope and acceptance limits.</text>
-<text x="64" y="756" fill="#b9cbd1" font-family="Arial,sans-serif" font-size="15">A diagram is not a penetration test, compliance certification or guarantee of every deployed path.</text>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#D5FF3F"/></marker></defs>
+<rect width="1400" height="780" fill="#08090A"/><path d="M1060 0h150l-340 780H720zM1280 0h120L1060 780H940z" fill="#0D0F10"/>
+<path d="M0 0h390l-7 6H0z" fill="#D5FF3F"/>
+<text x="62" y="69" fill="#D5FF3F" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2.5">SECURITY / PRIVACY / ENGINEERING</text>
+<text x="60" y="128" fill="#F5F6F7" font-family="Arial,sans-serif" font-size="44" font-weight="700">Make the boundaries visible.</text>
+<text x="64" y="168" fill="#B8BDC2" font-family="Arial,sans-serif" font-size="19">Access decisions, credential scope and private-to-public data flow.</text>
+<path d="M62 214h1276v139H75l-13-13z" fill="#101214" stroke="#3B3F42" stroke-width="1.5"/><path d="M62 214h7v139h-7z" fill="#D5FF3F"/>
+<text x="87" y="251" fill="#D5FF3F" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">305UGC / PORTAL ACCESS</text>
+<text x="88" y="294" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Signed-in identity</text><path d="M292 287H340" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="366" y="294" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Role &amp; capability</text><path d="M568 287H619" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="647" y="294" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Record membership</text><path d="M875 287H925" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="952" y="294" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Scoped response</text>
+<text x="88" y="328" fill="#B8BDC2" font-family="Arial,sans-serif" font-size="16">Account approval, request approval and project access remain separate decisions.</text>
+<path d="M62 375h1276v139H75l-13-13z" fill="#101214" stroke="#3B3F42" stroke-width="1.5"/><path d="M62 375h7v139h-7z" fill="#8E949A"/>
+<text x="87" y="412" fill="#D3D6D9" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">DIVE DEEP / CREDENTIAL BOUNDARIES</text>
+<text x="88" y="455" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Service identity</text><path d="M292 448H340" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="366" y="455" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Matching API scope</text><path d="M600 448H650" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="677" y="455" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">External-safe fields</text>
+<text x="88" y="489" fill="#B8BDC2" font-family="Arial,sans-serif" font-size="16">Customer, integration, worker and administrator credentials have distinct documented scopes.</text>
+<path d="M62 536h1276v139H75l-13-13z" fill="#101214" stroke="#3B3F42" stroke-width="1.5"/><path d="M62 536h7v139h-7z" fill="#8E949A"/>
+<text x="87" y="573" fill="#D3D6D9" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">RAWGRADED / PRIVATE-TO-PUBLIC OUTPUT</text>
+<text x="88" y="616" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Certificate request</text><path d="M306 609H351" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="377" y="616" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Owner-session check</text><path d="M631 609H677" stroke="#D5FF3F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="705" y="616" fill="#F4F5F6" font-family="Arial,sans-serif" font-size="21">Remove listed private fields</text>
+<text x="88" y="650" fill="#B8BDC2" font-family="Arial,sans-serif" font-size="16">Non-owner responses omit acquisition details, tracking, private notes and receipt imagery.</text>
+<text x="64" y="728" fill="#C3C7CA" font-family="Arial,sans-serif" font-size="17">Documented architecture and reviewed source. Follow the evidence links for scope and acceptance limits.</text>
+<text x="64" y="756" fill="#92979C" font-family="Arial,sans-serif" font-size="15">A diagram is not a penetration test, compliance certification or guarantee of every deployed path.</text>
 </svg>

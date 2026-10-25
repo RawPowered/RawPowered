@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150" role="img" aria-label="Design &amp; Interfaces: Web &amp; mobile · Guided intake · Design review"><rect width="680" height="150" rx="12" fill="#5D487E"/><text x="30" y="58" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#fff">Design &amp; Interfaces</text><text x="31" y="100" font-family="Arial,sans-serif" font-size="19" fill="#F0F6FF">Web &amp; mobile · Guided intake · Design review</text><path d="M612 48l18 18-18 18M598 66h31" fill="none" stroke="#fff" stroke-width="3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150" role="img" aria-label="Design and Interfaces: Web + mobile  /  guided intake  /  design review">
+<rect width="680" height="150" fill="#0A0B0C" stroke="#333639" stroke-width="2"/>
+<path d="M0 0h680L624 150H0z" fill="#101214"/><path d="M590 0h50l-55 150h-50zM648 0h32v150h-55z" fill="#181A1D"/>
+<path d="M0 0h230l-5 5H0z" fill="#D5FF3F"/>
+<text x="30" y="38" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#D5FF3F">02 / PRODUCT</text>
+<text x="29" y="80" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#F5F6F7">Design &amp; Interfaces</text>
+<text x="31" y="115" font-family="Arial,sans-serif" font-size="17" fill="#B8BDC2">Web + mobile  /  guided intake  /  design review</text>
+<path d="M620 70h27m-10-10 10 10-10 10" fill="none" stroke="#D5FF3F" stroke-width="2.5"/>
+</svg>
