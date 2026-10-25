@@ -44,7 +44,7 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <tr>
 <td colspan="2" valign="top">
 <h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="360"></a></h3>
-<p align="center"><img src="assets/profile/category-art/marketing-growth.jpg" alt="Marketing and growth category artwork" width="100%"></p>
+<p align="center"><img src="assets/profile/category-art/marketing-growth.jpg" alt="Marketing and growth category artwork" width="360"></p>
 <p>Organic search, content, and social media work across organic and paid channels.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="34"></a></p>
 </td>
