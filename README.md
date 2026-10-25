@@ -10,7 +10,7 @@ I am open to roles across systems and IT operations, business systems, web and p
 
 <h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
 
-Five starting points make it easier to reach the evidence that fits your opening. Each route includes project links and marks the status of the work.
+Five starting points make it easier to reach the work that fits your opening. Project pages identify their current status and available evidence.
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ Five starting points make it easier to reach the evidence that fits your opening
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="100%"></a></h3>
+<h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="360"></a></h3>
 <p>Organic search, content, and social media work across organic and paid channels.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="34"></a></p>
 </td>
@@ -116,12 +116,13 @@ Five starting points make it easier to reach the evidence that fits your opening
 
 <h3 id="ai-and-model-work">AI and model work</h3>
 
-<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a></p>
-<p>RawMarkets is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. The local model setup needs fresh verification after an environment change. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment; its source and model-dependent behavior are not yet presented in a public portfolio. I include image and video assessment or generation examples where the artifact and the role of AI are clearly identified. <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
+<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
+<p>RawMarkets is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. The local model setup needs fresh verification after an environment change. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment; its source and model-dependent behavior are not yet presented in a public portfolio. I include image and video assessment or generation examples where the artifact and the role of AI are clearly identified.</p>
 
 <h3 id="historical-web-and-education-work">Earlier web and education work</h3>
 
-<p>Earlier work includes WordPress multisite and LMS development through TactiveLearning and cannabisuniversity.org. A surviving public archive shows a 2013 Gravity Forms question posted under the TactiveLearning name, supporting a historical WordPress and form-work connection. I recall that TactiveLearning served Western Governors University cohorts and reached more than 10,000 learners over its lifetime; the surviving public record does not independently verify the university relationship or learner count. <a href="https://legacy.forums.gravityhelp.com/topic/export-to-csv-link-on-page"><img src="assets/profile/actions/tactive-history.svg" alt="TactiveLearning archive" height="34"></a>.</p>
+<p>Earlier work includes WordPress multisite and LMS development through TactiveLearning and cannabisuniversity.org. A surviving public archive shows a 2013 Gravity Forms question posted under the TactiveLearning name, supporting a historical WordPress and form-work connection. I recall that TactiveLearning served Western Governors University cohorts and reached more than 10,000 learners over its lifetime; the surviving public record does not independently verify the university relationship or learner count.</p>
+<p><a href="https://legacy.forums.gravityhelp.com/topic/export-to-csv-link-on-page"><img src="assets/profile/actions/tactive-history.svg" alt="TactiveLearning archive" height="34"></a></p>
 
 <h2 id="operational-experience"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Operational experience</h2>
 
