@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">Joseph Edwards — product and systems engineering</title>
+<desc id="desc">Customer-facing products, CRM integrations, workflow automation and research tools.</desc>
+<rect width="1400" height="430" fill="#12232e"/>
+<path d="M70 70H1330M70 355H1330" stroke="#3b5663"/>
+<text x="72" y="119" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#91d7cc">JOSEPH EDWARDS / RAWPOWERED</text>
+<text x="68" y="212" font-family="Georgia,serif" font-size="65" fill="#f5f0e7">Software that connects</text>
+<text x="68" y="288" font-family="Georgia,serif" font-size="65" font-style="italic" fill="#f5f0e7">the product to the operation.</text>
+<text x="74" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">CRM SYSTEMS</text>
+<text x="414" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">WORKFLOW AUTOMATION</text>
+<text x="905" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">RESEARCH &amp; DEVELOPER TOOLS</text>
+<path d="M1198 117h97v97h-97zM1164 151h97v97h-97z" fill="none" stroke="#91d7cc" stroke-width="2" opacity=".6"/>
+</svg>
