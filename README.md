@@ -20,9 +20,9 @@ Each path explains the work, decisions, and evidence available for that type of 
 
 ### Specialist portfolios
 
-<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/buttons/web-dark.svg" alt="Web design, mobile UX and WordPress portfolio" height="62"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/buttons/marketing-dark.svg" alt="Marketing, SEO and performance portfolio" height="62"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/buttons/identity-dark.svg" alt="Identity, privacy and data provenance portfolio" height="62"></a>
+<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/buttons/web-dark.svg" alt="Web design, mobile UX and WordPress portfolio" height="62"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/buttons/marketing-dark.svg" alt="Marketing, SEO and performance portfolio" height="62"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/buttons/identity-dark.svg" alt="Identity, privacy and data provenance portfolio" height="62"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/buttons/api-dark.svg" alt="API integration and automation portfolio" height="62"></a>
 
-Responsive web & WordPress · Marketing & SEO · Identity, privacy & data provenance
+Responsive web & WordPress · Marketing & SEO · Identity, privacy & data provenance · API integration & automation
 
 ## Selected work
 
