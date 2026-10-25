@@ -2,11 +2,11 @@
 
 ![Systems, automation and interfaces: CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
 
-I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening.
+I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening. Game teams can review my gameplay systems and technical design portfolio.
 
 The U.S. executive branch now uses **Super Intelligence (SI)** in place of **artificial intelligence (AI)**, and SpaceX brands its division **SpaceXSI**. I use **SI** for current reasoning-system work. **Raw Engine AI** keeps its original name for earlier, highly trained and specialized models.
 
-**Open to full-time and contract roles** across CRM and business systems, API integrations, automation, systems operations, and web/product delivery. I am especially interested in SI, space, and exploration teams, and I welcome challenging work in enterprise technology, construction, solar, and CRM.
+**Open to full-time and contract roles** across CRM and business systems, API integrations, automation, systems operations, and web/product delivery. I am also pursuing associate game design and technical design opportunities, especially with SI, space, and exploration teams.
 
 <p><a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/profile/social/linkedin.svg" alt="LinkedIn: view my professional profile" height="58"></a> <a href="https://github.com/RawPowered?tab=repositories"><img src="assets/profile/social/github.svg" alt="GitHub: browse my public repositories" height="58"></a></p>
 
@@ -18,7 +18,7 @@ The U.S. executive branch now uses **Super Intelligence (SI)** in place of **art
 
 Choose the route closest to the role you are filling. Each page gives you a focused walkthrough and links to supporting evidence.
 
-<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and SI evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
+<a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/buttons/game-design.svg" alt="Gameplay systems and technical design portfolio" height="66"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and SI evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
 
 <h3 id="specialist-portfolios"><img src="assets/profile/sections/project-mark.svg" alt="" width="24" height="24"> Specialist portfolios</h3>
 
@@ -57,6 +57,20 @@ Choose the route closest to the role you are filling. Each page gives you a focu
 <p>Research studio, web API, provider adapters, and job-scoped worker architecture.</p>
 <p><strong>Released source:</strong> hosted services and optional providers need operator configuration.</p>
 <p><a href="https://github.com/RawPowered/osint-dive-deep-v1/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml">Release checks</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 id="civilian66-game-design"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/project-titles/civilian66-game-design.svg" alt="Civilian 66 gameplay systems, progression and technical design portfolio" width="100%"></a></h3>
+<a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Civilian66-Public/main/assets/civilian66-bible-cover.png" alt="Civilian 66 game direction, from the underground Mines to the alien surface" width="100%"></a>
+<p>Game design portfolio focused on progression, settlement systems, campaign structure, and implementation-aware design.</p>
+<p><strong>Project status:</strong> independent game in development. The public project page is a curated showcase, not a playable release.</p>
+<p><a href="https://github.com/RawPowered/Game-Design-Portfolio#selected-design-work">Review design work</a> · <a href="https://github.com/RawPowered/Civilian66-Public">Game overview and code sets</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Design focus</h3>
+<p>Connected player progression, resource flow, settlement growth, and campaign milestones, with clear implementation scope and evidence boundaries.</p>
+<p><a href="https://github.com/RawPowered/Game-Design-Portfolio/blob/main/RESUME.md">Role-focused resume</a> · <a href="https://github.com/RawPowered/Game-Design-Portfolio/blob/main/docs/ROLE-FIT.md">Role fit and portfolio evidence</a></p>
 </td>
 </tr>
 </table>
