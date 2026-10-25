@@ -12,6 +12,17 @@ I build and administer the systems teams use to serve customers: SaaS platforms,
 
 <table><tr><td width="50%"><a href="docs/OPERATIONS.md"><img src="assets/profile/route-operations.svg" alt="Systems and Operations: SaaS ownership, CRM workflows and recovery" width="100%"></a></td><td width="50%"><a href="docs/DESIGN.md"><img src="assets/profile/route-design.svg" alt="Design and Interfaces: web and mobile, guided intake and design review" width="100%"></a></td></tr></table>
 
+## Choose a review path
+
+| Your focus | Start here |
+|---|---|
+| Design, interface critique & AI design evaluation | [Design Judgment & Interfaces](https://github.com/RawPowered/Design-Judgment-Portfolio) |
+| Support systems, triage & workflow ownership | [Support Operations & Systems](https://github.com/RawPowered/Support-Operations-Systems) |
+| IT administration, access & recovery | [Systems Administration & Reliability](https://github.com/RawPowered/Systems-Administration-Portfolio) |
+| Zoho, CRM migrations & integration delivery | [CRM Platforms & Automation](https://github.com/RawPowered/CRM-Integration-Portfolio) |
+
+Each path links the relevant work, explains my decisions, and distinguishes existing evidence from planned demonstrations.
+
 ## Selected work
 
 <table>
