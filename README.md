@@ -1,6 +1,10 @@
 # Joseph Edwards
 
-![Systems, automation and interfaces: SaaS operations, CRM integrations, web and product design](assets/profile/header-operations.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/header-operations.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/header-operations-light.svg">
+  <img alt="Joseph Edwards — Systems, automation and interfaces: SaaS operations, CRM integrations, web and product design" src="assets/profile/header-operations.svg" width="100%">
+</picture>
 
 I build and administer the systems teams use to serve customers: SaaS platforms, CRM integrations, internal tools, and responsive web interfaces. My work connects operational experience with software delivery, access controls, and practical documentation.
 
@@ -10,18 +14,13 @@ I build and administer the systems teams use to serve customers: SaaS platforms,
 
 [LinkedIn](https://www.linkedin.com/in/josephedwardscto/) · [Background & experience](docs/BACKGROUND.md) · [Engineering walkthrough](docs/ENGINEERING.md) · [Security & privacy](docs/SECURITY-AND-PRIVACY.md)
 
-<table><tr><td width="50%"><a href="docs/OPERATIONS.md"><img src="assets/profile/route-operations.svg" alt="Systems and Operations: SaaS ownership, CRM workflows and recovery" width="100%"></a></td><td width="50%"><a href="docs/DESIGN.md"><img src="assets/profile/route-design.svg" alt="Design and Interfaces: web and mobile, guided intake and design review" width="100%"></a></td></tr></table>
+<table><tr><td width="50%"><a href="docs/OPERATIONS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/route-operations.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/route-operations-light.svg"><img src="assets/profile/route-operations.svg" alt="Systems and Operations: SaaS ownership, CRM workflows and recovery" width="100%"></picture></a></td><td width="50%"><a href="docs/DESIGN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/route-design.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/route-design-light.svg"><img src="assets/profile/route-design.svg" alt="Design and Interfaces: web and mobile, guided intake and design review" width="100%"></picture></a></td></tr></table>
 
 ## Choose a review path
 
-| Your focus | Start here |
-|---|---|
-| Design, interface critique & AI design evaluation | [Design Judgment & Interfaces](https://github.com/RawPowered/Design-Judgment-Portfolio) |
-| Support systems, triage & workflow ownership | [Support Operations & Systems](https://github.com/RawPowered/Support-Operations-Systems) |
-| IT administration, access & recovery | [Systems Administration & Reliability](https://github.com/RawPowered/Systems-Administration-Portfolio) |
-| Zoho, CRM migrations & integration delivery | [CRM Platforms & Automation](https://github.com/RawPowered/CRM-Integration-Portfolio) |
+<p align="center"><a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/design-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/buttons/design-light.svg"><img src="assets/profile/buttons/design-dark.svg" width="224" alt="Design and AI evaluation — design review portfolio"></picture></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/operations-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/buttons/operations-light.svg"><img src="assets/profile/buttons/operations-dark.svg" width="224" alt="Support systems — operations portfolio"></picture></a> <a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/systems-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/buttons/systems-light.svg"><img src="assets/profile/buttons/systems-dark.svg" width="224" alt="Systems administration — access and recovery portfolio"></picture></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/crm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/profile/buttons/crm-light.svg"><img src="assets/profile/buttons/crm-dark.svg" width="224" alt="CRM delivery — Zoho and integration portfolio"></picture></a></p>
 
-Each path links the relevant work, explains my decisions, and distinguishes existing evidence from planned demonstrations.
+Each path explains the work, decisions, and evidence available for that type of role.
 
 ## Selected work
 
