@@ -12,11 +12,10 @@
 <circle cx="63" cy="20" r="14" fill="#BCC5CB"/><circle cx="257" cy="20" r="14" fill="#BCC5CB"/>
 <circle cx="160" cy="190" r="112" fill="#BCC5CB" stroke="#E2E7EA" stroke-width="3"/>
 <circle cx="45" cy="194" r="29" fill="#BCC5CB"/><circle cx="275" cy="194" r="29" fill="#BCC5CB"/>
-<ellipse cx="160" cy="188" rx="94" ry="70" fill="#343B40" fill-opacity=".94"/>
-<path d="M116 188c13-28 29-42 44-42s31 14 44 42c-13 28-29 42-44 42s-31-14-44-42z" fill="#E2E7EA"/>
-<circle cx="160" cy="188" r="28" fill="#9EA9B0"/>
-<circle cx="160" cy="188" r="15" fill="#343B40"/>
-<circle cx="151" cy="177" r="6" fill="#F4F6F7"/>
+<ellipse cx="160" cy="188" rx="101" ry="78" fill="#343B40" fill-opacity=".94"/>
+<circle cx="160" cy="188" r="58" fill="#E2E7EA"/>
+<circle cx="160" cy="188" r="36" fill="#78838B"/>
+<circle cx="160" cy="188" r="22" fill="#343B40"/>
 </g>
 <path d="M46 43h13l-8 16H38z" fill="#D5FF3F"/>
 <text x="73" y="58" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS  /  RAWPOWERED</text>
