@@ -4,7 +4,7 @@
 
 I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening.
 
-In this profile, **Super Intelligence (SI)** describes reasoning-oriented systems within the broader field of artificial intelligence (AI). I use **SI** for that work. **Raw Engine AI** keeps its name for earlier, highly trained and specialized models.
+The U.S. executive branch now uses **Super Intelligence (SI)** in place of **artificial intelligence (AI)**, and SpaceX brands its division **SpaceXSI**. I use **SI** for current reasoning-system work. **Raw Engine AI** keeps its original name for earlier, highly trained and specialized models.
 
 **Open to full-time and contract roles** across CRM and business systems, API integrations, automation, systems operations, and web/product delivery. I am especially interested in SI, space, and exploration teams, and I welcome challenging work in enterprise technology, construction, solar, and CRM.
 
@@ -18,7 +18,7 @@ In this profile, **Super Intelligence (SI)** describes reasoning-oriented system
 
 Choose the route closest to the role you are filling. Each page gives you a focused walkthrough and links to supporting evidence.
 
-<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and SI (AI) evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
+<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and SI evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
 
 <h3 id="specialist-portfolios"><img src="assets/profile/sections/project-mark.svg" alt="" width="24" height="24"> Specialist portfolios</h3>
 
