@@ -16,13 +16,13 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <tr>
 <td width="50%" valign="top">
 <h3 id="systems-it-automation"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></h3>
-<p align="center"><img src="assets/profile/category-art/systems-automation.jpg" alt="Systems, IT and automation category artwork" width="100%"></p>
+<p align="center"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/category-art/systems-automation.png" alt="Systems administration, CRM, workflow automation, APIs, integrations, and support operations." width="100%"></a></p>
 <p>Systems administration, CRM, workflow automation, APIs, integrations, and support operations.</p>
 <p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/actions/systems-admin.svg" alt="Systems administration" height="34"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/actions/crm-delivery.svg" alt="CRM delivery" height="34"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/actions/apis-automation.svg" alt="APIs and automation" height="34"></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 id="web-digital-products"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></h3>
-<p align="center"><img src="assets/profile/category-art/web-digital.jpg" alt="Web and digital products category artwork" width="100%"></p>
+<p align="center"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/category-art/web-digital.png" alt="Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces." width="100%"></a></p>
 <p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces.</p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-wordpress.svg" alt="Web and WordPress work" height="34"></a> <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC case" height="34"></a></p>
 </td>
@@ -30,13 +30,13 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <tr>
 <td width="50%" valign="top">
 <h3 id="creative-interactive"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></h3>
-<p align="center"><img src="assets/profile/category-art/creative-game-design.jpg" alt="Creative and game design category artwork" width="100%"></p>
+<p align="center"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/category-art/creative-game-design.png" alt="Creative and game design, including current Civilian 66 characters and an Xbox controller." width="100%"></a></p>
 <p>Show and screenplay writing, illustration, UI/UX, game stories, player loops, systems, and economies. Game implementation examples use Godot and Unreal Engine.</p>
 <p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="assets/profile/actions/earth-to-jay.svg" alt="Earth To Jay" height="34"></a> <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/actions/game-design.svg" alt="Game design" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-brawl.svg" alt="Crawl Brawl" height="34"></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 id="ai-emerging-technology"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></h3>
-<p align="center"><img src="assets/profile/category-art/ai-emerging-technology.jpg" alt="AI and emerging technology category artwork" width="100%"></p>
+<p align="center"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
 <p>AI-assisted products, model integration, research and content assessment, and image or video development. I describe model use and project status where shown.</p>
 <p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
 </td>
@@ -44,7 +44,7 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <tr>
 <td colspan="2" valign="top">
 <h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="360"></a></h3>
-<p align="center"><img src="assets/profile/category-art/marketing-growth.jpg" alt="Marketing and growth category artwork" width="360"></p>
+<p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="100%"></a></p>
 <p>Organic search, content, and social media work across organic and paid channels.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="34"></a></p>
 </td>
