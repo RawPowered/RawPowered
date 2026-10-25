@@ -1,21 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
 <title id="title">Joseph Edwards portfolio</title>
-<desc id="desc">A branded guide to systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth, with a monochrome glass silhouette of Hank from Earth To Jay. Hank has a round face screen, a large pupil-less eye offset to one side, and a small side sensor.</desc>
+<desc id="desc">A branded guide to systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth, with a monochrome, front-facing glass silhouette of Hank from Earth To Jay, a centered pupil-less eye, and matching side thrusters.</desc>
 <rect width="1400" height="320" fill="#08090A"/>
 <path d="M0 0h480l-8 7H0z" fill="#D5FF3F"/>
 <rect x="0.75" y="0.75" width="1398.5" height="318.5" fill="none" stroke="#373A3D" stroke-width="1.5"/>
 <path d="M0 292h730v28H0zM1330 0h70v320h-70z" fill="#101214"/>
 <path d="M796 0h112L795 320H684zM971 0h104L870 320H766zM1137 0h104L1036 320h-104z" fill="#0E1012"/>
-<!-- Hank follows the original silhouette: round screen, one large pupil-less offset eye, and a side sensor. -->
+<!-- Hank faces forward with a centered eye and simple, symmetric side thrusters. -->
 <g transform="translate(330,0) scale(.96)" opacity=".34">
 <path d="M118 105 69 27M202 105l49-78" fill="none" stroke="#BCC5CB" stroke-width="13" stroke-linecap="round"/>
 <circle cx="63" cy="20" r="14" fill="#BCC5CB"/><circle cx="257" cy="20" r="14" fill="#BCC5CB"/>
+<path d="M52 181H33l-9 9 9 9h19zM268 181h19l9 9-9 9h-19z" fill="#A8B2B9"/>
 <circle cx="160" cy="190" r="112" fill="#BCC5CB" stroke="#E2E7EA" stroke-width="3"/>
-<circle cx="169" cy="190" r="82" fill="#343B40" fill-opacity=".94"/>
-<circle cx="187" cy="190" r="47" fill="#E2E7EA"/>
-<circle cx="47" cy="194" r="28" fill="#BCC5CB" stroke="#E2E7EA" stroke-width="2"/>
-<circle cx="39" cy="188" r="6" fill="#E2E7EA"/><circle cx="52" cy="187" r="6" fill="#E2E7EA"/><circle cx="46" cy="200" r="6" fill="#E2E7EA"/>
-<rect x="269" y="179" width="12" height="28" rx="5" fill="#BCC5CB"/>
+<circle cx="160" cy="190" r="82" fill="#343B40" fill-opacity=".94"/>
+<circle cx="160" cy="190" r="47" fill="#E2E7EA"/>
 </g>
 <path d="M46 43h13l-8 16H38z" fill="#D5FF3F"/>
 <text x="73" y="58" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS  /  RAWPOWERED</text>
