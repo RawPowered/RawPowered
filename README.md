@@ -2,9 +2,9 @@
 
 ![Joseph Edwards portfolio overview with six work routes and a large monochrome glass relief of Hank from Earth To Jay](assets/profile/header-portfolio-hank-front.svg)
 
-I build systems and products that help teams run work and serve customers. My experience spans CRM and API delivery, workflow automation, web products, construction and solar operations, and creative development in game design, storytelling, and UI/UX.
+I build systems and products that help teams run work and serve customers. My experience spans CRM and API delivery, workflow automation, web products, and construction and solar operations. My creative portfolio includes screenplay writing, story development, game design, UI/UX, and playable prototypes.
 
-I am open to roles in business systems, IT and operations, automation, web and product delivery, and creative technology. I am especially interested in challenging work across space, defense, AI, industrial technology, construction, and solar.
+I am open to roles in business systems, IT and operations, automation, and web and product delivery. I am also pursuing creative roles in screenwriting and story development, voice acting and performance, and game design and development. My portfolio shows script and story material, UI/UX, game systems, and playable prototypes, with my contribution and each project's stage identified. I am especially interested in work across space, defense, AI, industrial technology, construction, and solar.
 
 <p><a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/profile/social/linkedin.svg" alt="LinkedIn: view my professional profile" height="58"></a> <a href="https://github.com/RawPowered?tab=repositories"><img src="assets/profile/social/github.svg" alt="GitHub: browse my public repositories" height="58"></a></p>
 
