@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="34" viewBox="0 0 178 34" role="img" aria-label="Security and privacy portfolio">
+<path d="M0 0h168l10 9v25H10L0 25z" fill="#0C0D0E" stroke="#3A3D40" stroke-width="1"/>
+<path d="M1 0h32l-4 3H1z" fill="#D5FF3F"/>
+<text x="13" y="22" font-family="Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing=".5" fill="#D5FF3F">05</text>
+<path d="M31 8h119" stroke="#292C2E" stroke-width="1"/>
+<text x="34" y="22" font-family="Arial,sans-serif" font-size="10.3" font-weight="700" letter-spacing=".35" fill="#F1F3F4">SECURITY + PRIVACY</text>
+<path d="M151 17h10m-5-5 5 5-5 5" fill="none" stroke="#D5FF3F" stroke-width="1.6"/>
+</svg>

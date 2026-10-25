@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="112" viewBox="0 0 1400 112" role="img" aria-labelledby="title desc">
+<title id="title">Selected projects</title><desc id="desc">Four featured builds across CRM automation, construction services, customer portals, and research tooling.</desc>
+<rect width="1400" height="112" fill="#0A0B0C" stroke="#373A3D" stroke-width="2"/>
+<path d="M0 0h380l-6 5H0z" fill="#D5FF3F"/><path d="M1110 0h88l-55 112h-88zM1230 0h80l-55 112h-80zM1345 0h55v112h-110z" fill="#141618"/>
+<path d="M34 33h16l-9 18H25z" fill="#D5FF3F"/>
+<text x="67" y="48" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5" fill="#BEC3C7">PORTFOLIO / BUILT &amp; DOCUMENTED</text>
+<text x="32" y="91" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-.8" fill="#F5F6F7">Selected projects</text>
+<path d="M930 26v60" stroke="#3A3D40"/><text x="963" y="49" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#D5FF3F">04 FEATURED BUILDS</text><text x="963" y="74" font-family="Arial,sans-serif" font-size="15" fill="#B8BDC2">Products / operations / interfaces</text>
+</svg>

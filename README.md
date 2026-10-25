@@ -4,7 +4,7 @@
 
 I build the systems teams and customers use: SaaS operations, CRM and API integrations, workflow automation, and responsive web experiences. I bring operational ownership, practical engineering, and product design together.
 
-<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/design-angle.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access-angle.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
+<p><a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/navigation/api.svg" alt="API and automation portfolio" height="34"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/navigation/crm.svg" alt="CRM platforms portfolio" height="34"></a> <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/navigation/web.svg" alt="Web and mobile portfolio" height="34"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/navigation/seo.svg" alt="SEO and growth portfolio" height="34"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/navigation/security.svg" alt="Security and privacy portfolio" height="34"></a></p>
 
 **Open to full-time and contract roles** in CRM and business systems, API integrations, automation, systems operations, and web/product interfaces.
 
@@ -20,7 +20,7 @@ I build the systems teams and customers use: SaaS operations, CRM and API integr
 
 Each route is a short, evidence-linked review. Private implementations, fictional tours, and work still awaiting acceptance are labeled in the linked case.
 
-## Selected work
+<h2><img src="assets/profile/sections/selected-projects.svg" alt="Selected projects" width="100%"></h2>
 
 <table>
 <tr>
