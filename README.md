@@ -4,7 +4,7 @@
 
 I build the systems teams and customers use: SaaS operations, CRM and API integrations, workflow automation, and responsive web experiences. I bring operational ownership, practical engineering, and product design together.
 
-<p><a href="docs/OPERATIONS.md"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/tags/design.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/tags/access.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
+<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/design.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
 
 **Open to full-time and contract roles** in CRM and business systems, API integrations, automation, systems operations, and web/product interfaces.
 
@@ -59,13 +59,13 @@ Each route is a short, evidence-linked review. Private implementations, fictiona
 
 At Expert Solar I administered business systems, took over outstanding CRM delivery requests, and supported the Salesforce-to-Zoho transition. My reported outcome was discontinuing approximately **$20K/month** in external development expense after work moved in-house.
 
-[![Preserved partial history: retained CRM entries and surviving workflow definitions](https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/operations-evidence.svg)](docs/EXPERT-SOLAR.md)
+[![Preserved partial history: retained CRM entries and surviving workflow definitions](assets/profile/operations-evidence.svg)](docs/EXPERT-SOLAR.md)
 
 The legacy Zoho account is partial history of a previously functional system; the full historical automation stack is no longer available to demonstrate. The savings figure is my reported business outcome, separate from those retained records. [Read the evidence and limits](docs/EXPERT-SOLAR.md) · [SaaS administration, migration & Apple MDM](docs/BACKGROUND.md).
 
 ## Security, privacy & engineering judgment
 
-![Access boundaries, scoped credentials, and server-side privacy controls](https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/security-boundaries.svg)
+![Access boundaries, scoped credentials, and server-side privacy controls](assets/profile/security-boundaries.svg)
 
 I separate sign-in from record access, keep integration credentials server-side, and decide explicitly which fields an endpoint may return. [Review the diagrams and verification scope](docs/SECURITY-AND-PRIVACY.md).
 
