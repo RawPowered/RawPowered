@@ -2,29 +2,53 @@
 
 ![Systems, automation and interfaces: CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
 
-I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening. Game teams can review my [gameplay systems and technical design portfolio](https://github.com/RawPowered/Game-Design-Portfolio).
+I build the systems, products, and creative work that help teams serve customers and move ideas into use. My hands-on experience spans construction and solar operations, CRM administration and migration, automation, APIs, WordPress, responsive web design, and organic SEO. My creative work includes show planning, screenplay writing, illustration, UI/UX, and game design.
 
-The U.S. executive branch now uses **Super Intelligence (SI)** in place of **artificial intelligence (AI)**, and SpaceX brands its division **SpaceXSI**. I use **SI** for current reasoning-system work. **Raw Engine AI** keeps its original name for earlier, highly trained and specialized models.
-
-**Open to full-time and contract roles** across CRM and business systems, API integrations, automation, systems operations, and web/product delivery. I am also pursuing associate game design and technical design opportunities, especially with SI, space, and exploration teams.
+I am open to roles across systems and IT operations, business systems, web and product design, marketing, and creative development. I am especially interested in space, defense, and AI teams, including SpaceX, SpaceXSI, OpenAI, and Cursor, alongside opportunities in construction, solar, and enterprise technology.
 
 <p><a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/profile/social/linkedin.svg" alt="LinkedIn: view my professional profile" height="58"></a> <a href="https://github.com/RawPowered?tab=repositories"><img src="assets/profile/social/github.svg" alt="GitHub: browse my public repositories" height="58"></a></p>
 
-<p><a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/navigation/api.svg" alt="API and automation portfolio" height="34"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/navigation/crm.svg" alt="CRM platforms portfolio" height="34"></a> <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/navigation/web.svg" alt="Web and mobile portfolio" height="34"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/navigation/seo.svg" alt="SEO and growth portfolio" height="34"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/navigation/security.svg" alt="Security and privacy portfolio" height="34"></a></p>
+<h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
 
-[Experience](docs/BACKGROUND.md) · [Why this portfolio is new](docs/PORTFOLIO-CONTEXT.md) · [Engineering](docs/ENGINEERING.md) · [Security and privacy](docs/SECURITY-AND-PRIVACY.md)
+Five starting points make it easier to reach the evidence that fits your opening. Each route includes project links and marks the status of the work.
 
-<h2 id="choose-a-review-path"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Choose a review path</h2>
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 id="systems-it-automation"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></h3>
+<p>Systems administration, CRM, workflow automation, APIs, integrations, and support operations.</p>
+<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio">Systems administration</a> · <a href="https://github.com/RawPowered/CRM-Integration-Portfolio">CRM delivery</a> · <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio">APIs and automation</a></p>
+</td>
+<td width="33%" valign="top">
+<h3 id="web-digital-products"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></h3>
+<p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces.</p>
+<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Web and WordPress work</a> · <a href="https://github.com/RawPowered/305UGC-Showcase">305UGC case</a></p>
+</td>
+<td width="33%" valign="top">
+<h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="100%"></a></h3>
+<p>Organic search, content, and social media work across organic and paid channels.</p>
+<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio">Marketing and SEO portfolio</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 id="creative-interactive"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></h3>
+<p>Show and screenplay writing, illustration, UI/UX, game stories, player loops, systems, and economies. Game implementation examples use Godot and Unreal Engine.</p>
+<p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio">Earth To Jay</a> · <a href="https://github.com/RawPowered/Game-Design-Portfolio">Game design</a> · <a href="https://github.com/RawPowered/Crawl-Brawl">Crawl Brawl</a></p>
+</td>
+<td width="50%" valign="top">
+<h3 id="ai-emerging-technology"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></h3>
+<p>AI-assisted products, model integration, research and content assessment, and image or video development. I describe model use and project status where shown.</p>
+<p><a href="https://github.com/RawPowered/RawMarkets">RawMarkets overview</a> · <a href="https://github.com/RawPowered/Design-Judgment-Portfolio">Design and evaluation work</a></p>
+</td>
+</tr>
+</table>
 
-Choose the route closest to the role you are filling. Each page gives you a focused walkthrough and links to supporting evidence.
+<p><strong>Looking for another fit?</strong> Start with the project closest to the work, then follow its design, engineering, or operations evidence.</p>
 
-<a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/buttons/game-design.svg" alt="Gameplay systems and technical design portfolio" height="66"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/buttons/design-dark.svg" alt="Design and SI evaluation portfolio" height="66"></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><img src="assets/profile/buttons/operations-dark.svg" alt="Support operations systems portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/buttons/systems-dark.svg" alt="Systems administration portfolio" height="66"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/buttons/crm-dark.svg" alt="CRM delivery portfolio" height="66"></a>
+<h2 id="featured-projects"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Selected work</h2>
 
-<h3 id="specialist-portfolios"><img src="assets/profile/sections/project-mark.svg" alt="" width="24" height="24"> Specialist portfolios</h3>
-
-<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/buttons/web-dark.svg" alt="Web design, mobile UX and WordPress portfolio" height="66"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/buttons/marketing-dark.svg" alt="Marketing, SEO and performance portfolio" height="66"></a> <br><a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/buttons/identity-dark.svg" alt="Identity, privacy and data provenance portfolio" height="66"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/buttons/api-dark.svg" alt="API integration and automation portfolio" height="66"></a>
-
-<h2 id="featured-projects"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Featured projects</h2>
+<h3 id="systems-and-digital-products">Systems and digital products</h3>
 
 <table>
 <tr>
@@ -59,21 +83,42 @@ Choose the route closest to the role you are filling. Each page gives you a focu
 <p><a href="https://github.com/RawPowered/osint-dive-deep-v1/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml">Release checks</a></p>
 </td>
 </tr>
+</table>
+
+<h3 id="creative-and-interactive-work">Creative and interactive work</h3>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3 id="civilian66-game-design"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/project-titles/civilian66-game-design.svg" alt="Civilian 66 gameplay systems, progression and technical design portfolio" width="100%"></a></h3>
 <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Civilian66-Public/main/assets/civilian66-bible-cover.png" alt="Civilian 66 game direction, from the underground Mines to the alien surface" width="100%"></a>
-<p>Game design portfolio with the Civilian 66 character lineup, progression case studies, and a proposed Bloopi plush line.</p>
-<p><strong>Project status:</strong> independent game in development. The public project page is a curated showcase, not a playable release.</p>
+<p>Story and world direction, character work, progression case studies, and a proposed Bloopi plush line.</p>
+<p><strong>Status:</strong> independent game in development. The public project page is a curated showcase; its Unreal Engine clip is an early proof of play, not a public standalone release.</p>
 <p><a href="https://github.com/RawPowered/Game-Design-Portfolio#selected-design-work">Review design work</a> · <a href="https://github.com/RawPowered/Civilian66-Public">Game overview and code sets</a></p>
 </td>
-<td width="50%" valign="top">
-<h3>Design focus</h3>
-<p>Connected player progression, resource flow, settlement growth, and campaign milestones, with clear implementation scope and evidence boundaries.</p>
-<p><a href="https://github.com/RawPowered/Game-Design-Portfolio/blob/main/RESUME.md">Role-focused resume</a> · <a href="https://github.com/RawPowered/Game-Design-Portfolio/blob/main/docs/ROLE-FIT.md">Role fit and portfolio evidence</a></p>
+<td width="33%" valign="top">
+<h3 id="crawl-brawl"><a href="https://github.com/RawPowered/Crawl-Brawl">Crawl Brawl</a></h3>
+<a href="https://github.com/RawPowered/Crawl-Brawl"><img src="https://raw.githubusercontent.com/RawPowered/Crawl-Brawl/main/assets/showcase/latest-gameplay-1080p.gif" alt="Crawl Brawl gameplay showing underground exploration, building, materials, UI, and combat" width="100%"></a>
+<p>Playable Windows beta and Godot project. Digging, resource collection, base building, defense, and combat form the current play loop.</p>
+<p><a href="https://github.com/RawPowered/Crawl-Brawl/releases/latest">Download beta</a> · <a href="https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame">Latest gameplay</a></p>
+</td>
+<td width="33%" valign="top">
+<h3 id="earth-to-jay"><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio">Earth To Jay</a></h3>
+<a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Earth-To-Jay-Portfolio/main/artwork/story-frames/01-jay-workspace.png" alt="Earth To Jay storyboard concept showing Jay at work" width="100%"></a>
+<p>Original animated-adventure concept with show planning, character writing, screenplay work, and scripted voice performance.</p>
+<p><strong>Visual development:</strong> AI-assisted storyboard concepts, identified as development images.</p>
+<p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio#what-this-portfolio-shows">Review the portfolio</a></p>
 </td>
 </tr>
 </table>
+
+<h3 id="ai-and-model-work">AI and model work</h3>
+
+<p><a href="https://github.com/RawPowered/RawMarkets">RawMarkets</a> is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. The local model setup needs fresh verification after an environment change. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment; its source and model-dependent behavior are not yet presented in a public portfolio. I include image and video assessment or generation examples where the artifact and the role of AI are clearly identified.</p>
+
+<h3 id="historical-web-and-education-work">Earlier web and education work</h3>
+
+<p>Earlier work includes WordPress multisite and LMS development through TactiveLearning and cannabisuniversity.org. A surviving public archive shows a 2013 Gravity Forms question posted under the TactiveLearning name, supporting a historical WordPress and form-work connection. I recall that TactiveLearning served Western Governors University cohorts and reached more than 10,000 learners over its lifetime; the surviving public record does not independently verify the university relationship or learner count. <a href="https://legacy.forums.gravityhelp.com/topic/export-to-csv-link-on-page">View the archived post</a>.</p>
 
 <h2 id="operational-experience"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Operational experience</h2>
 
@@ -93,7 +138,7 @@ I separate sign-in from record access, keep integration credentials server-side,
 
 I map the process, decision authority, and data boundaries first. I design for failure and recovery, then document the implementation and the evidence it supports. I use Cursor and Codex to speed development; I define architecture, review code, debug failures, and set release scope. [Design review](docs/DESIGN.md) · [Engineering walkthrough](docs/ENGINEERING.md).
 
-**Core range:** Zoho CRM administration · Salesforce-to-Zoho migration · REST API integrations · workflow automation · WordPress development · responsive and mobile UX · technical SEO · TypeScript/JavaScript · Python · PHP · SQL · Node.js · React · Microsoft 365 · Google Workspace · GitHub Actions.
+**Tools and methods:** Zoho CRM · Salesforce-to-Zoho migration · REST APIs · workflow automation · WordPress · responsive and mobile UX · technical SEO · TypeScript/JavaScript · Python · PHP · SQL · Node.js · React · Godot · Unreal Engine · Microsoft 365 · Google Workspace · GitHub Actions · AI model integration and evaluation.
 
 <h2 id="more-tools"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> More tools</h2>
 
@@ -112,8 +157,8 @@ I map the process, decision authority, and data boundaries first. I design for f
 
 <h2 id="before-we-meet"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Before we meet</h2>
 
-- **Where do you want to contribute?** SI, space, and exploration are my first-choice fields. My experience also fits enterprise systems, construction, solar, CRM, and operations technology.
-- **What would we discuss?** A system or workflow, the constraints behind it, design and architecture choices, security and failure handling, delivery, and the evidence available.
-- **What can I review?** Public code, demonstrations, screenshots, and sanitized historical records. Each case identifies its status and evidence limits.
+- **Where might I contribute?** Systems and IT operations, business platforms, web and product delivery, marketing, game design, and creative development. My experience spans construction, solar, enterprise systems, and independent products. I am especially interested in space, defense, and AI teams.
+- **What can you review?** Public source, playable work, demonstrations, design material, selected historical records, and project status notes.
+- **How should we start?** Follow the route closest to the opening. I can walk through the problem, my part in the work, the decisions, and the evidence that remains available.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/josephedwardscto/)
