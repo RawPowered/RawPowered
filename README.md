@@ -2,7 +2,7 @@
 
 ![Systems, automation and interfaces: CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
 
-I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening. Game teams can review my gameplay systems and technical design portfolio.
+I build business systems teams use to serve customers: CRM and API integrations, workflow automation, internal tools, and responsive web products. If you are hiring for Zoho CRM administration, Salesforce-to-Zoho migration, REST API integration, WordPress development, mobile UX, technical SEO, or systems operations, start with the route closest to your opening. Game teams can review my [gameplay systems and technical design portfolio](https://github.com/RawPowered/Game-Design-Portfolio).
 
 The U.S. executive branch now uses **Super Intelligence (SI)** in place of **artificial intelligence (AI)**, and SpaceX brands its division **SpaceXSI**. I use **SI** for current reasoning-system work. **Raw Engine AI** keeps its original name for earlier, highly trained and specialized models.
 
