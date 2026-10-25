@@ -1,6 +1,6 @@
 # Engineering walkthrough
 
-[Profile overview](../README.md)
+[Profile overview](../README.md) · [Security and privacy diagrams](SECURITY-AND-PRIVACY.md)
 
 The four featured projects show different parts of the same engineering practice: understand a workflow, build an interface around it, connect the systems behind it, and make the access and failure boundaries reviewable.
 

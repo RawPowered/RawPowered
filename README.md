@@ -6,9 +6,17 @@ I build software that connects customer-facing experiences to the systems a busi
 
 ![Product and systems engineering: software that connects the product to the operation](assets/profile/header.svg)
 
+<p>
+<a href="#start-with-the-work"><img src="assets/profile/tags/product.svg" alt="Product engineering" height="28"></a>
+<a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="28"></a>
+<a href="docs/SECURITY-AND-PRIVACY.md#portal-access-is-more-than-a-successful-login"><img src="assets/profile/tags/access.svg" alt="Access control" height="28"></a>
+<a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="28"></a>
+<a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/tags/automation.svg" alt="Automation" height="28"></a>
+</p>
+
 **Open to full-time and contract opportunities** in product engineering, solutions and integration engineering, and CRM/business systems.
 
-[LinkedIn](https://www.linkedin.com/in/josephedwardscto/) · [Engineering walkthrough](docs/ENGINEERING.md) · [Explore my repositories](https://github.com/RawPowered?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/josephedwardscto/) · [Engineering walkthrough](docs/ENGINEERING.md) · [Security & privacy](docs/SECURITY-AND-PRIVACY.md) · [Explore my repositories](https://github.com/RawPowered?tab=repositories)
 
 ## Start with the work
 
@@ -16,6 +24,7 @@ I build software that connects customer-facing experiences to the systems a busi
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/RawPowered/305UGC-Showcase">305UGC Suite</a></h3>
+<p><img src="assets/profile/tags/live.svg" alt="Live website" height="24"> <img src="assets/profile/tags/integration.svg" alt="CRM &amp; APIs" height="24"> <img src="assets/profile/tags/access.svg" alt="Access control" height="24"></p>
 <p><strong>Website, customer intake and CRM operations.</strong> A company-specific build connecting responsive web design, guided project requests, WordPress and Zoho CRM.</p>
 <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/305ugc.png" alt="Actual 305UGC public website at desktop width" width="100%"></a>
 <p>Explore server-side CRM transport, durable request receipts, retry handling, customer membership boundaries, and the measured search/content record.</p>
@@ -24,6 +33,7 @@ I build software that connects customer-facing experiences to the systems a busi
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals</a></h3>
+<p><img src="assets/profile/tags/validation.svg" alt="Private validation" height="24"> <img src="assets/profile/tags/product.svg" alt="Product engineering" height="24"> <img src="assets/profile/tags/access.svg" alt="Access control" height="24"></p>
 <p><strong>A configurable portal product.</strong> Guided intake, customer follow-up, team workspaces and Zoho companion widgets designed around each business's CRM schema.</p>
 <a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/powerportals.png" alt="PowerPortals project selector in an isolated fictional-data demonstration" width="100%"></a>
 <p>Explore service-specific question paths, property context, module/field discovery, configurable mappings, and separate account and project approval.</p>
@@ -34,6 +44,7 @@ I build software that connects customer-facing experiences to the systems a busi
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/RawPowered/flow-fountain-for-crms">Flow Fountain for CRMs</a></h3>
+<p><img src="assets/profile/tags/preview.svg" alt="Source preview" height="24"> <img src="assets/profile/tags/automation.svg" alt="Automation" height="24"> <img src="assets/profile/tags/integration.svg" alt="CRM &amp; APIs" height="24"></p>
 <p><strong>Self-hosted workflow and integration tooling.</strong> A visual automation workspace with operational review, scoped connections, audit context and preservation jobs.</p>
 <a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/fountain.png" alt="Flow Fountain visual workflow designer using fictional preview data and mocked API responses" width="100%"></a>
 <p>Explore triggers, conditions and actions; HTTP/SQL integration controls; reviewed Python handlers; and Windows/Linux release checks. Originally built for GoHighLevel/LeadConnector.</p>
@@ -42,6 +53,7 @@ I build software that connects customer-facing experiences to the systems a busi
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/RawPowered/osint-dive-deep-v1">OSINT Dive Deep</a></h3>
+<p><img src="assets/profile/tags/release.svg" alt="Released source" height="24"> <img src="assets/profile/tags/privacy.svg" alt="Privacy" height="24"> <img src="assets/profile/tags/product.svg" alt="Product engineering" height="24"></p>
 <p><strong>Research tools with evidence context.</strong> A local research studio, web API, frontend and job-scoped cloud worker for organizing public-source investigations.</p>
 <a href="https://github.com/RawPowered/osint-dive-deep-v1"><img src="assets/profile/dive-deep.png" alt="OSINT Dive Deep research hub in an empty documentation case with no real subjects" width="100%"></a>
 <p>Explore cases, observations, provenance, property/domain research, and optional tool adapters. The public release begins with a blank workspace.</p>
@@ -61,6 +73,19 @@ I build software that connects customer-facing experiences to the systems a busi
 | Solutions, integration or deployment engineering | 305UGC + Flow Fountain | Workflow discovery, schema mapping, remote-service failure handling and operational handoffs |
 | CRM and business systems | 305UGC + PowerPortals | Zoho, WordPress, Deluge/API workflows, customer portals and role-scoped records |
 | Developer tools and AI-enabled workflows | Dive Deep + the tools below | Research interfaces, evidence handling, local-first applications and reviewable automation |
+
+## Security & privacy engineering
+
+![Documented portal-access, credential-scope and private-output boundaries](assets/profile/security-boundaries.svg)
+
+| Engineering decision | Work to inspect |
+|---|---|
+| Separate identity, role and record access | 305UGC's portal model keeps account approval and project membership distinct. |
+| Scope credentials to the work | Dive Deep documents separate customer, integration, worker and administrator boundaries. |
+| Minimize public responses on the server | RawGraded's verification handler removes listed private fields for non-owner requests. |
+| Keep releases reviewable | Fountain and Dive Deep publish configuration, source-packaging and automated-check boundaries. |
+
+[Explore the security diagrams, source references and verification scope](docs/SECURITY-AND-PRIVACY.md). These are specific implementation and design examples; independent security certification is not asserted.
 
 ## How I approach the work
 
