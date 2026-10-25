@@ -8,7 +8,7 @@ I build the systems teams and customers use: SaaS operations, CRM and API integr
 
 **Open to full-time and contract roles** in CRM and business systems, API integrations, automation, systems operations, and web/product interfaces.
 
-[LinkedIn](https://www.linkedin.com/in/josephedwardscto/) · [Experience](docs/BACKGROUND.md) · [Engineering](docs/ENGINEERING.md) · [Security & privacy](docs/SECURITY-AND-PRIVACY.md)
+[LinkedIn](https://www.linkedin.com/in/josephedwardscto/) · [Experience](docs/BACKGROUND.md) · [Why this portfolio is new](docs/PORTFOLIO-CONTEXT.md) · [Engineering](docs/ENGINEERING.md) · [Security & privacy](docs/SECURITY-AND-PRIVACY.md)
 
 ## Choose a review path
 
