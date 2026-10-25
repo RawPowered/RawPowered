@@ -2,21 +2,21 @@
 
 [Profile](../README.md) · [Engineering](ENGINEERING.md) · [Security & privacy](SECURITY-AND-PRIVACY.md)
 
-My interface work connects a clear first impression to a useful next step: understand the service, describe the work, provide context, and continue with appropriate feedback. These are design reviews of the visible work, not fabricated user-study results.
+My interface work connects a clear first impression to a useful next step: understand the service, describe the work, provide context, and continue with appropriate feedback. The reviews examine visible work and identify the next usability checks.
 
-## 305UGC — connect the front door to the request
+## 305UGC: connect the front door to the request
 
 ![Public 305UGC website preview crop](../assets/profile/305ugc-preview.png)
 
 **The task:** help a visitor understand the construction offering and begin a useful project request.
 
-**What works:** service-focused hierarchy and consistent request entry points connect the marketing surface with a structured workflow. The [desktop/mobile case](https://github.com/RawPowered/305UGC-Showcase#desktop-to-mobile) gives the responsive presentation its own evidence rather than treating a smaller screenshot as proof of mobile usability.
+**What works:** service-focused hierarchy and consistent request entry points connect the marketing surface with a structured workflow. The [desktop/mobile case](https://github.com/RawPowered/305UGC-Showcase#desktop-to-mobile) documents the responsive design at desktop and mobile sizes, with evidence for each view.
 
 **The tradeoff:** project imagery establishes context, but large image areas can compete with the immediate next action. Mobile review should prioritize readable service labels, a clear request action, and the amount of information needed before commitment.
 
-**What I would verify:** keyboard navigation, error recovery, touch-target spacing, and the full request path at narrow widths. The public showcase distinguishes the captured website from integration acceptance. It does not claim a completed usability study or blanket accessibility conformance.
+**What I would verify:** keyboard navigation, error recovery, touch-target spacing, and the full request path at narrow widths. The public showcase documents the captured website. Integration acceptance, usability study results, and accessibility conformance require separate validation.
 
-## PowerPortals — make a complex request approachable
+## PowerPortals: make a complex request approachable
 
 ![PowerPortals project-type selection crop from a fictional-data demonstration](../assets/profile/powerportals-preview.png)
 
@@ -26,9 +26,9 @@ My interface work connects a clear first impression to a useful next step: under
 
 **The tradeoff:** image cards need persistent readable labels and explicit selected states; photographs alone cannot communicate selection or replace control labels. A progress indicator should explain position without becoming the most visually demanding part of the form.
 
-**What I would verify:** multi-selection behavior, focus visibility, contrast on each image, back/continue state preservation, and field errors. Fictional-data tour screens support an interface discussion; they do not establish production acceptance.
+**What I would verify:** multi-selection behavior, focus visibility, contrast on each image, back/continue state preservation, and field errors. The tour screens use fictional data and illustrate design decisions. Production acceptance remains unverified.
 
-## Flow Fountain — distinguish authoring from operating
+## Flow Fountain: distinguish authoring from operating
 
 ![Flow Fountain preview with fictional data and mocked responses](../assets/profile/fountain-preview.png)
 
@@ -38,12 +38,12 @@ My interface work connects a clear first impression to a useful next step: under
 
 **The tradeoff:** a broad operations workspace can become dense. A focused view of one trigger, condition, action, and resulting state is more useful for review than an unreadable all-features screenshot.
 
-**What I would verify:** empty/loading/failure states, selected-step clarity, safe edits, and whether execution feedback identifies the failed dependency. Preview responses remain labeled; the design review does not convert them into live results.
+**What I would verify:** empty/loading/failure states, selected-step clarity, safe edits, and whether execution feedback identifies the failed dependency. The preview labels mocked responses and identifies the states that need review against a live system.
 
 ## Applying the same critique to this profile
 
 The earlier profile used a tall generic banner, repeated tags, uneven screenshot proportions, and several competing role routes. This revision reduces the banner, introduces two clear starting points, standardizes preview framing, and moves detailed proof into linked cases.
 
-The change improves visual consistency and reduces duplication. It is an editorial/design revision, not a measured conversion or usability result. Preview crops retain real source pixels; full interface captures remain available through the original tours.
+The revision improves visual consistency and reduces duplication. Conversion and usability effects remain unmeasured. Preview crops retain real source pixels; full interface captures remain available through the original tours.
 
 I use AI-assisted tools during implementation and editing. Clear critique, hierarchy, accurate status, source review, and responsibility for the final presentation remain essential parts of the work.

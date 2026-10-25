@@ -1,8 +1,8 @@
 # Joseph Edwards
 
-![Systems, automation and interfaces — CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
+![Systems, automation and interfaces: CRM and APIs, workflow automation, responsive products](assets/profile/header-operations.svg)
 
-I build the systems teams and customers use: SaaS operations, CRM and API integrations, workflow automation, and responsive web experiences. I bring operational ownership, practical engineering, and product design together.
+I build systems teams use to serve customers: SaaS platforms, CRM and API integrations, internal tools, and responsive web interfaces. My work spans system administration, software delivery, access control, and technical documentation.
 
 <p><a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/navigation/api.svg" alt="API and automation portfolio" height="34"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/navigation/crm.svg" alt="CRM platforms portfolio" height="34"></a> <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/navigation/web.svg" alt="Web and mobile portfolio" height="34"></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/navigation/seo.svg" alt="SEO and growth portfolio" height="34"></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><img src="assets/profile/navigation/security.svg" alt="Security and privacy portfolio" height="34"></a></p>
 
@@ -34,8 +34,8 @@ Each route is a short, evidence-linked review. Private implementations, fictiona
 <td width="50%" valign="top">
 <h3><a href="https://github.com/RawPowered/305UGC-Showcase">305UGC Suite</a></h3>
 <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/305ugc-preview.png" alt="Capture of the public 305UGC website" width="100%"></a>
-<p>Responsive web design, guided project intake, and a WordPress–Zoho CRM architecture.</p>
-<p><strong>Status:</strong> public site captured; full operational acceptance remains pending. This is project work, not current employment.</p>
+<p>Responsive web design, guided project intake, and a WordPress and Zoho CRM integration architecture.</p>
+<p><strong>Portfolio project:</strong> public site captured; full operational acceptance remains pending.</p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Web &amp; mobile</a> · <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md">CRM integration</a></p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ At Expert Solar I administered business systems, took over outstanding CRM deliv
 
 [![Preserved partial history: retained CRM entries and surviving workflow definitions](assets/profile/operations-evidence.svg)](docs/EXPERT-SOLAR.md)
 
-The legacy Zoho account is partial history of a previously functional system; the full historical automation stack is no longer available to demonstrate. The savings figure is my reported business outcome, separate from those retained records. [Read the evidence and limits](docs/EXPERT-SOLAR.md) · [SaaS administration, migration & Apple MDM](docs/BACKGROUND.md).
+The legacy Zoho account preserves partial history of a previously functional system. Its complete historical automation stack is unavailable for review. The $20K/month savings figure is my reported business outcome, separate from the retained CRM records. [Read the evidence and limits](docs/EXPERT-SOLAR.md) · [SaaS administration, migration & Apple MDM](docs/BACKGROUND.md).
 
 ## Security, privacy & engineering judgment
 
@@ -71,7 +71,7 @@ I separate sign-in from record access, keep integration credentials server-side,
 
 ## How I work
 
-Understand the operation, define authority and data boundaries, build a useful interface, plan for failure and recovery, then state what the evidence proves. I use Cursor and Codex while owning architecture decisions, source review, debugging, and release scope. [Design review](docs/DESIGN.md) · [Engineering walkthrough](docs/ENGINEERING.md).
+I map the process, decision authority, and data boundaries first. I design for failure and recovery, then document the implementation and the evidence it supports. I use Cursor and Codex to speed development; I define the architecture, review code, debug failures, and set release scope. [Design review](docs/DESIGN.md) · [Engineering walkthrough](docs/ENGINEERING.md).
 
 **Core range:** TypeScript/JavaScript · Python · PHP · SQL · Node.js · React · WordPress · Zoho CRM/Flow/Deluge · REST APIs · webhooks · Microsoft 365 · Google Workspace · GitHub Actions.
 

@@ -28,4 +28,4 @@ My wider administration work includes Microsoft 365/Google Workspace transitions
 4. Review the implementation and evidence before describing the outcome.
 5. Document what is complete, what remains dependent on another system, and the next acceptance check.
 
-These are my working principles. They are not an assertion of a named ticketing-platform deployment, measured SLA improvement, or completed incident drill unless the linked case documents it. I use AI tools for investigation and implementation, with human review of the resulting changes.
+These principles describe how I approach operations. The linked cases specify any ticketing-platform deployments, measured SLA results, and incident drills I can document. I use Cursor and Codex to speed investigation and implementation. I review changes and remain accountable for the result.

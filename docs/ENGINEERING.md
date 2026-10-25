@@ -8,7 +8,7 @@ The four featured projects show different parts of the same engineering practice
 
 **Start with:** [the CRM and automation walkthrough](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md).
 
-The public website and project-request flow connect web design to operational data collection. This is portfolio project work; a started employment engagement and full operational acceptance are not implied. The engineering story goes beyond the front end: local receipt preservation before remote delivery, stable request identity, server-side CRM transport, and distinct account and project-membership decisions.
+The public website and project-request flow connect web design to operational data collection. This is portfolio project work. Full operational acceptance remains pending. The engineering story goes beyond the front end: local receipt preservation before remote delivery, stable request identity, server-side CRM transport, and distinct account and project-membership decisions.
 
 These are useful review questions:
 
@@ -17,7 +17,7 @@ These are useful review questions:
 - What establishes permission to view a particular customer's project?
 - Which paths were observed live, and which still need a controlled round trip?
 
-The [project-status record](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/PROJECT-STATUS.md) answers the last question explicitly. The [measurement record](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/MEASURED-RESULTS.md) separately documents search exposure and website sessions. It does not turn early traffic into a revenue or ROI claim.
+The [project-status record](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/PROJECT-STATUS.md) answers the last question explicitly. The [measurement record](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/MEASURED-RESULTS.md) separately documents search exposure and website sessions. Revenue and ROI remain unverified by the early traffic records.
 
 ## PowerPortals: separating a product from one deployment
 
@@ -33,18 +33,18 @@ The central product decision is to keep the reusable platform distinct from any 
 
 The workflow designer is one part of the system. Integration configuration, grants and credential references, execution review, registered Python handlers, audit context and preservation records make the larger operation inspectable.
 
-The original CRM integration is GoHighLevel/LeadConnector. HTTP, SQL and Python building blocks support adaptation, but another CRM still needs its own authentication, endpoints, mappings and webhook behavior. Windows/Linux CI is public; the preview's mocked API responses are labeled and do not establish completed external operations. Live database and integration acceptance remain separate from automated checks.
+The original CRM integration is GoHighLevel/LeadConnector. Shared HTTP, SQL, and Python building blocks support adaptation; each additional CRM requires its own authentication, endpoints, mappings, and webhook behavior. Windows/Linux CI is public. The preview labels mocked API responses; external operations, live-database behavior, and integration acceptance require separate validation.
 
 ## Dive Deep: giving research an evidence model
 
 **Start with:** [the complete-stack architecture](https://github.com/RawPowered/osint-dive-deep-v1/blob/main/docs/ARCHITECTURE.md).
 
-The project combines a local Python/Streamlit research workspace with a Node API, MySQL-backed web platform, browser frontend and job-scoped cloud worker. Cases connect entities, observations, runs, provenance and artifacts, rather than presenting isolated tool outputs as final answers.
+The project combines a local Python/Streamlit research workspace with a Node API, MySQL-backed web platform, browser frontend and job-scoped cloud worker. The data model connects cases, entities, observations, runs, provenance, and artifacts so each result has a traceable context.
 
-Adapters can connect optional public-source tools, while source coverage and human verification remain explicit. The public edition contains no saved subjects, customer cases or deployment credentials. Hosted components require configuration. The [verification workflow](https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml) and release documentation give reviewers a path beyond screenshots.
+Adapters can connect optional public-source tools, while source coverage and human verification remain explicit. The public edition uses a blank research workspace and excludes customer cases and deployment credentials. Hosted components require configuration. The [verification workflow](https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml) and release documentation give reviewers a path beyond screenshots.
 
 ## AI and developer-tool relevance
 
-These projects provide evidence for application engineering, workflow tooling, integrations, configuration, access control and operational review. Additional [local-first AI application work](https://github.com/RawPowered/RawGraded) and [reference-analysis tooling](https://github.com/RawPowered/OrphanHunter) extend that story. They do not establish foundation-model training, research novelty or model-quality benchmarks.
+These projects provide evidence for application engineering, workflow tooling, integrations, configuration, access control and operational review. Additional [local-first AI application work](https://github.com/RawPowered/RawGraded) and [reference-analysis tooling](https://github.com/RawPowered/OrphanHunter) extend that story. Foundation-model training, research novelty, and model-quality benchmarks fall outside this portfolio.
 
 For an engineering conversation, I can walk through the workflow, architecture, code or documentation available for review, failure cases, validation performed, and the next acceptance checks. Client confidentiality determines which implementation details can be shared.
