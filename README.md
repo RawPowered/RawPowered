@@ -82,7 +82,7 @@ I use AI-assisted development tools as part of my workflow. Architecture decisio
 
 ## Working stack
 
-**TypeScript / JavaScript · Python · PHP · SQL**  
+**TypeScript / JavaScript · Python · PHP · SQL**<br>
 React, Node.js/Express, Streamlit, WordPress, MySQL, SQLite, REST APIs, webhooks, Zoho CRM/Flow/Deluge, Salesforce, Git and GitHub Actions.
 
 My earlier business-systems work includes CRM administration and migrations, operational automation, user lifecycle and permissions, and Microsoft 365/Google Workspace transitions. The selected projects above show how I carry that operational experience into product engineering.
