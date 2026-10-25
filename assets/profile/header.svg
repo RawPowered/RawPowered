@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
-<title id="title">Joseph Edwards — product and systems engineering</title>
-<desc id="desc">Customer-facing products, CRM integrations, workflow automation and research tools.</desc>
-<rect width="1400" height="430" fill="#12232e"/>
-<path d="M70 70H1330M70 355H1330" stroke="#3b5663"/>
-<text x="72" y="119" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#91d7cc">JOSEPH EDWARDS / RAWPOWERED</text>
-<text x="68" y="212" font-family="Georgia,serif" font-size="65" fill="#f5f0e7">Software that connects</text>
-<text x="68" y="288" font-family="Georgia,serif" font-size="65" font-style="italic" fill="#f5f0e7">the product to the operation.</text>
-<text x="74" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">CRM SYSTEMS</text>
-<text x="414" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">WORKFLOW AUTOMATION</text>
-<text x="905" y="393" font-family="Arial,sans-serif" font-size="20" fill="#bccbd0">RESEARCH &amp; DEVELOPER TOOLS</text>
-<path d="M1198 117h97v97h-97zM1164 151h97v97h-97z" fill="none" stroke="#91d7cc" stroke-width="2" opacity=".6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250" role="img" aria-labelledby="title desc">
+<title id="title">Systems, automation and interfaces</title><desc id="desc">Joseph Edwards: SaaS operations, CRM integrations, web and product design. A small diagram connects intake, workflow and review.</desc>
+<rect width="1400" height="250" rx="16" fill="#132A36"/><path d="M0 0H1400" stroke="#28BAAA" stroke-width="8"/>
+<text x="48" y="54" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#88DBD0">JOSEPH EDWARDS / RAWPOWERED</text>
+<text x="46" y="121" font-family="Georgia,serif" font-size="48" fill="#F8F3E9">Systems. Automation. Interfaces.</text>
+<text x="49" y="167" font-family="Arial,sans-serif" font-size="21" fill="#C6D5DC">SaaS operations · CRM integrations · Web &amp; product design</text>
+<path d="M49 199H860" stroke="#35515F"/><text x="49" y="225" font-family="Arial,sans-serif" font-size="15" fill="#A5BCC7">UNDERSTAND THE WORK / BUILD THE TOOL / MAKE THE EVIDENCE CLEAR</text>
+<path d="M1107 66V185" stroke="#4D7181" stroke-width="2"/>
+<rect x="975" y="38" width="264" height="44" rx="9" fill="#20585D"/><text x="1000" y="66" font-family="Arial,sans-serif" font-size="17" fill="#E2FFFA">01   INTAKE</text>
+<rect x="1010" y="104" width="264" height="44" rx="9" fill="#344D79"/><text x="1035" y="132" font-family="Arial,sans-serif" font-size="17" fill="#E8F0FF">02   WORKFLOW</text>
+<rect x="1045" y="170" width="264" height="44" rx="9" fill="#594876"/><text x="1070" y="198" font-family="Arial,sans-serif" font-size="17" fill="#F5EDFF">03   REVIEW</text>
 </svg>
