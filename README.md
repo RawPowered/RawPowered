@@ -1,10 +1,10 @@
 # Joseph Edwards
 
-![Systems, automation and interfaces: SaaS operations, CRM integrations, web and product design](assets/profile/header.svg)
+![Systems, automation and interfaces: SaaS operations, CRM integrations, web and product design](assets/profile/header-operations.svg)
 
 I build and administer the systems teams use to serve customers: SaaS platforms, CRM integrations, internal tools, and responsive web interfaces. My work connects operational experience with software delivery, access controls, and practical documentation.
 
-<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/product.svg" alt="Interface and product design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
+<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/design.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
 
 **Open to full-time and contract work** in systems operations, business-system automation, integrations, and web/product interfaces.
 
