@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-label="Game design">
+<path d="M0 0h224l16 14v30H14L0 32z" fill="#090A0B" stroke="#373A3D" stroke-width="1.5"/>
+<path d="M0 0h78l-4 4H0z" fill="#D5FF3F"/>
+<path d="M219 1h5l15 13v10l-20-17z" fill="#1B1D1F"/>
+<text x="13" y="28" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#F7F8F9">Game design</text>
+<path d="M206 22h14m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+</svg>
