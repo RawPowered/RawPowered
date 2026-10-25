@@ -4,7 +4,7 @@
 
 I build the systems teams and customers use: SaaS operations, CRM and API integrations, workflow automation, and responsive web experiences. I bring operational ownership, practical engineering, and product design together.
 
-<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/design.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
+<p><a href="docs/OPERATIONS.md"><img src="assets/profile/tags/automation.svg" alt="Workflow automation" height="26"></a> <a href="docs/ENGINEERING.md"><img src="assets/profile/tags/integration.svg" alt="CRM and APIs" height="26"></a> <a href="docs/DESIGN.md"><img src="assets/profile/tags/design-angle.svg" alt="Interface design" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md"><img src="assets/profile/tags/access-angle.svg" alt="Access control" height="26"></a> <a href="docs/SECURITY-AND-PRIVACY.md#privacy-belongs-in-the-server-response"><img src="assets/profile/tags/privacy.svg" alt="Privacy" height="26"></a></p>
 
 **Open to full-time and contract roles** in CRM and business systems, API integrations, automation, systems operations, and web/product interfaces.
 
