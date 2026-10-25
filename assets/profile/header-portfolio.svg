@@ -1,30 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
 <title id="title">Joseph Edwards portfolio</title>
-<desc id="desc">A branded guide to systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth, with Hank from Earth To Jay shown as a large monochrome glass relief.</desc>
+<desc id="desc">A branded guide to systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth, with a simple monochrome silhouette of Hank from Earth To Jay stamped into the backdrop.</desc>
 <rect width="1400" height="320" fill="#08090A"/>
 <path d="M0 0h480l-8 7H0z" fill="#D5FF3F"/>
 <rect x="0.75" y="0.75" width="1398.5" height="318.5" fill="none" stroke="#373A3D" stroke-width="1.5"/>
 <path d="M0 292h730v28H0zM1330 0h70v320h-70z" fill="#101214"/>
 <path d="M796 0h112L795 320H684zM971 0h104L870 320H766zM1137 0h104L1036 320h-104z" fill="#0E1012"/>
-<defs>
-<linearGradient id="hank-glass" x1=".1" y1=".05" x2=".9" y2=".95"><stop offset="0" stop-color="#F7FAFC" stop-opacity=".58"/><stop offset=".22" stop-color="#B8C1C8" stop-opacity=".2"/><stop offset=".48" stop-color="#EEF2F5" stop-opacity=".38"/><stop offset=".72" stop-color="#727C84" stop-opacity=".2"/><stop offset="1" stop-color="#E8EDF1" stop-opacity=".5"/></linearGradient>
-<linearGradient id="hank-rod" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A9B2B9" stop-opacity=".25"/><stop offset=".4" stop-color="#F9FBFC" stop-opacity=".66"/><stop offset=".68" stop-color="#88929A" stop-opacity=".32"/><stop offset="1" stop-color="#E6EBEF" stop-opacity=".5"/></linearGradient>
-<radialGradient id="hank-lens" cx=".35" cy=".25" r=".9"><stop offset="0" stop-color="#F7FAFC" stop-opacity=".38"/><stop offset=".55" stop-color="#BFC7CD" stop-opacity=".12"/><stop offset="1" stop-color="#5E6971" stop-opacity=".28"/></radialGradient>
-</defs>
-<!-- Hank is a low-contrast glass relief stamped into the backdrop. -->
-<g transform="translate(330,0) scale(.96)" opacity=".23" fill="url(#hank-glass)" stroke="#E7EDF1" stroke-opacity=".72" stroke-width="2">
-<path d="M117 112 67 28M203 112l50-84" fill="none" stroke="url(#hank-rod)" stroke-width="14" stroke-linecap="round"/>
-<path d="M116 112 67 28M203 112l50-84" fill="none" stroke="#FFFFFF" stroke-opacity=".72" stroke-width="2" stroke-linecap="round"/>
-<circle cx="62" cy="20" r="15"/><circle cx="258" cy="20" r="15"/>
-<circle cx="62" cy="18" r="6" fill="#FFFFFF" fill-opacity=".48" stroke="none"/><circle cx="258" cy="18" r="6" fill="#FFFFFF" fill-opacity=".48" stroke="none"/>
-<circle cx="160" cy="190" r="112" stroke-width="3"/>
-<circle cx="160" cy="190" r="103" fill="url(#hank-lens)" stroke="#FFFFFF" stroke-opacity=".42" stroke-width="1.5"/>
-<ellipse cx="160" cy="190" rx="75" ry="57" fill="url(#hank-lens)" stroke="#F7FAFC" stroke-opacity=".78" stroke-width="2.5"/>
-<path d="M126 191c7-16 22-24 34-24s27 8 34 24c-7 17-22 26-34 26s-27-9-34-26z" fill="#F7FAFC" fill-opacity=".68" stroke="#FFFFFF" stroke-opacity=".9" stroke-width="2"/>
-<circle cx="46" cy="194" r="30"/><circle cx="274" cy="194" r="30"/>
-<circle cx="46" cy="194" r="21" fill="url(#hank-lens)" stroke="#FFFFFF" stroke-opacity=".4"/><circle cx="274" cy="194" r="21" fill="url(#hank-lens)" stroke="#FFFFFF" stroke-opacity=".4"/>
-<path d="M93 143c22-39 76-57 116-30" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="4" stroke-linecap="round"/>
-<path d="M102 252c33 32 83 37 117 9" fill="none" stroke="#AAB4BB" stroke-opacity=".5" stroke-width="3" stroke-linecap="round"/>
+<!-- Hank is reduced to one quiet glass silhouette, stamped into the backdrop. -->
+<g transform="translate(330,0) scale(.96)" opacity=".2">
+<path d="M118 105 69 27M202 105l49-78" fill="none" stroke="#BCC5CB" stroke-width="13" stroke-linecap="round"/>
+<circle cx="63" cy="20" r="14" fill="#BCC5CB"/><circle cx="257" cy="20" r="14" fill="#BCC5CB"/>
+<circle cx="160" cy="190" r="112" fill="#BCC5CB" stroke="#E2E7EA" stroke-width="3"/>
+<circle cx="45" cy="194" r="29" fill="#BCC5CB"/><circle cx="275" cy="194" r="29" fill="#BCC5CB"/>
+<ellipse cx="160" cy="188" rx="76" ry="56" fill="#343B40" fill-opacity=".86"/>
+<path d="M130 184h60v10a30 23 0 0 1-60 0z" fill="#E2E7EA"/>
 </g>
 <path d="M46 43h13l-8 16H38z" fill="#D5FF3F"/>
 <text x="73" y="58" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS  /  RAWPOWERED</text>
