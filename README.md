@@ -1,6 +1,6 @@
 # Joseph Edwards
 
-![Joseph Edwards portfolio: systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth](assets/profile/header-portfolio.svg)
+![Joseph Edwards portfolio overview with six work routes and a large monochrome glass relief of Hank from Earth To Jay](assets/profile/header-portfolio.svg)
 
 I build the systems, products, and creative work that help teams serve customers and move ideas into use. My hands-on experience spans construction and solar operations, CRM administration and migration, automation, APIs, WordPress, responsive web design, and organic SEO. My creative work includes show planning, screenplay writing, illustration, UI/UX, and game design.
 
