@@ -14,9 +14,15 @@ I build and administer the systems teams use to serve customers: SaaS platforms,
 
 ## Choose a review path
 
-[![Design and AI evaluation — design review portfolio](assets/profile/buttons/design-dark.svg)](https://github.com/RawPowered/Design-Judgment-Portfolio) [![Support systems — operations portfolio](assets/profile/buttons/operations-dark.svg)](https://github.com/RawPowered/Support-Operations-Systems) [![Systems administration — access and recovery portfolio](assets/profile/buttons/systems-dark.svg)](https://github.com/RawPowered/Systems-Administration-Portfolio) [![CRM delivery — Zoho and integration portfolio](assets/profile/buttons/crm-dark.svg)](https://github.com/RawPowered/CRM-Integration-Portfolio)
+<a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/design-dark.svg"><img src="assets/profile/buttons/design-light.svg" alt="Design and AI evaluation portfolio" height="68"></picture></a> <a href="https://github.com/RawPowered/Support-Operations-Systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/operations-dark.svg"><img src="assets/profile/buttons/operations-light.svg" alt="Support operations systems portfolio" height="68"></picture></a> <a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/systems-dark.svg"><img src="assets/profile/buttons/systems-light.svg" alt="Systems administration portfolio" height="68"></picture></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/crm-dark.svg"><img src="assets/profile/buttons/crm-light.svg" alt="CRM delivery portfolio" height="68"></picture></a>
 
 Each path explains the work, decisions, and evidence available for that type of role.
+
+### Specialist portfolios
+
+<a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/web-dark.svg"><img src="assets/profile/buttons/web-light.svg" alt="Web design, mobile UX and WordPress portfolio" height="62"></picture></a> <a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/marketing-dark.svg"><img src="assets/profile/buttons/marketing-light.svg" alt="Marketing, SEO and performance portfolio" height="62"></picture></a> <a href="https://github.com/RawPowered/Identity-Data-Provenance-Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/buttons/identity-dark.svg"><img src="assets/profile/buttons/identity-light.svg" alt="Identity, privacy and data provenance portfolio" height="62"></picture></a>
+
+Responsive web & WordPress · Marketing & SEO · Identity, privacy & data provenance
 
 ## Selected work
 
