@@ -20,7 +20,7 @@ I build the systems teams and customers use: SaaS operations, CRM and API integr
 
 Each route is a short, evidence-linked review. Private implementations, fictional tours, and work still awaiting acceptance are labeled in the linked case.
 
-<h2><img src="assets/profile/sections/selected-projects.svg" alt="Selected projects" width="100%"></h2>
+## <img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Featured projects
 
 <table>
 <tr>
