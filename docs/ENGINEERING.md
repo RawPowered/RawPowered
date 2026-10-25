@@ -8,7 +8,7 @@ The four featured projects show different parts of the same engineering practice
 
 **Start with:** [the CRM and automation walkthrough](https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md).
 
-The public website and project-request flow connect web design to operational data collection. This is portfolio project work; a started employment engagement and full operational acceptance are not implied. This is portfolio project work; a started employment engagement and full operational acceptance are not implied. The engineering story goes beyond the front end: local receipt preservation before remote delivery, stable request identity, server-side CRM transport, and distinct account and project-membership decisions.
+The public website and project-request flow connect web design to operational data collection. This is portfolio project work; a started employment engagement and full operational acceptance are not implied. The engineering story goes beyond the front end: local receipt preservation before remote delivery, stable request identity, server-side CRM transport, and distinct account and project-membership decisions.
 
 These are useful review questions:
 
