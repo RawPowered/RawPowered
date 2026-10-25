@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+<title id="title">Joseph Edwards portfolio</title>
+<desc id="desc">A branded guide to systems and automation, web products, creative and game design, applied AI, physical product design, and marketing and growth.</desc>
+<rect width="1400" height="320" fill="#08090A"/>
+<path d="M0 0h480l-8 7H0z" fill="#D5FF3F"/>
+<rect x="0.75" y="0.75" width="1398.5" height="318.5" fill="none" stroke="#373A3D" stroke-width="1.5"/>
+<path d="M0 292h730v28H0zM1330 0h70v320h-70z" fill="#101214"/>
+<path d="M796 0h112L795 320H684zM971 0h104L870 320H766zM1137 0h104L1036 320h-104z" fill="#0E1012"/>
+<path d="M46 43h13l-8 16H38z" fill="#D5FF3F"/>
+<text x="73" y="58" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS  /  RAWPOWERED</text>
+<text x="46" y="128" font-family="Arial,sans-serif" font-size="47" font-weight="700" letter-spacing="-1.4" fill="#F6F7F8">Systems, products,</text>
+<text x="46" y="181" font-family="Arial,sans-serif" font-size="47" font-weight="700" letter-spacing="-1.4" fill="#F6F7F8">creative work<tspan fill="#D5FF3F">.</tspan></text>
+<text x="49" y="226" font-family="Arial,sans-serif" font-size="17" fill="#CFD2D5">Operations, digital platforms, stories, games,</text>
+<text x="49" y="252" font-family="Arial,sans-serif" font-size="17" fill="#CFD2D5">applied AI, and physical product concepts.</text>
+<path d="M49 278h177" stroke="#D5FF3F" stroke-width="2"/><path d="M226 278l-7-5m7 5-7 5" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<path d="M690 30v260" stroke="#383B3E"/>
+<text x="734" y="50" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.4" fill="#D5FF3F">PORTFOLIO ROUTES</text>
+<!-- Route 1 -->
+<path d="M734 68h290l12 12v60H746l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M734 68h68l-4 4h-64z" fill="#D5FF3F"/><text x="752" y="98" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">01</text>
+<text x="782" y="119" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F6F7F8">Systems + automation</text><path d="M985 108h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<!-- Route 2 -->
+<path d="M1050 68h290l12 12v60h-290l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M1050 68h68l-4 4h-64z" fill="#D5FF3F"/><text x="1068" y="98" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">02</text>
+<text x="1098" y="119" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F6F7F8">Web + digital products</text><path d="M1301 108h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<!-- Route 3 -->
+<path d="M734 154h290l12 12v60H746l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M734 154h68l-4 4h-64z" fill="#D5FF3F"/><text x="752" y="184" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">03</text>
+<text x="782" y="205" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F6F7F8">Creative + game design</text><path d="M985 194h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<!-- Route 4 -->
+<path d="M1050 154h290l12 12v60h-290l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M1050 154h68l-4 4h-64z" fill="#D5FF3F"/><text x="1068" y="184" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">04</text>
+<text x="1098" y="205" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F6F7F8">AI + emerging tech</text><path d="M1301 194h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<!-- Route 5 -->
+<path d="M734 240h290l12 12v50H746l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M734 240h68l-4 4h-64z" fill="#D5FF3F"/><text x="752" y="270" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">05</text>
+<text x="782" y="278" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#F6F7F8">Physical product design</text><path d="M985 266h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<!-- Route 6 -->
+<path d="M1050 240h290l12 12v50h-290l-12-12z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M1050 240h68l-4 4h-64z" fill="#D5FF3F"/><text x="1068" y="270" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">06</text>
+<text x="1098" y="278" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F6F7F8">Marketing + growth</text><path d="M1301 266h18m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+<path d="M1360 0v320" stroke="#D5FF3F" stroke-opacity=".28"/>
+</svg>
