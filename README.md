@@ -38,7 +38,7 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <h3 id="ai-emerging-technology"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></h3>
 <p align="center"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
 <p>AI-assisted products, model integration, research and content assessment, and image or video development. I describe model use and project status where shown.</p>
-<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
+<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="34"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="34"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
 </td>
 </tr>
 <tr>
@@ -47,6 +47,13 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="400"></a></p>
 <p>Organic search, content, and social media work across organic and paid channels.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="34"></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-design">Engineering and product design</a></h3>
+<p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
+<p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="34"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="34"></a></p>
 </td>
 </tr>
 </table>
@@ -121,8 +128,13 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 
 <h3 id="ai-and-model-work">AI and model work</h3>
 
-<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
-<p>RawMarkets is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. The local model setup needs fresh verification after an environment change. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment; its source and model-dependent behavior are not yet presented in a public portfolio. I include image and video assessment or generation examples where the artifact and the role of AI are clearly identified.</p>
+<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="34"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="34"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
+<p>RawMarkets is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. <strong>RawGraded Studio</strong> combines local-first card capture, image analysis, deterministic grading math, and optional AI evidence passes. <strong>LuxuryCatalog</strong> uses Gemini image models to turn line-art door designs into catalog imagery and supports batch processing, PDF export, and PDF-based recovery. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment, with AI-image signals and account or feed analysis; its showcase describes the prototype without publishing its working source. I identify model use and project status alongside each example.</p>
+
+<h3 id="physical-product-work">Physical product work</h3>
+
+<p>Product concepts that bring industrial design, engineering details, brand systems, and companion experiences together.</p>
+<p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product design" height="34"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product concept" height="34"></a></p>
 
 <h3 id="historical-web-and-education-work">Earlier web and education work</h3>
 
