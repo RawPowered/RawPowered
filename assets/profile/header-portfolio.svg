@@ -12,10 +12,8 @@
 <circle cx="63" cy="20" r="14" fill="#BCC5CB"/><circle cx="257" cy="20" r="14" fill="#BCC5CB"/>
 <circle cx="160" cy="190" r="112" fill="#BCC5CB" stroke="#E2E7EA" stroke-width="3"/>
 <circle cx="45" cy="194" r="29" fill="#BCC5CB"/><circle cx="275" cy="194" r="29" fill="#BCC5CB"/>
-<ellipse cx="160" cy="188" rx="101" ry="78" fill="#343B40" fill-opacity=".94"/>
-<circle cx="160" cy="188" r="58" fill="#E2E7EA"/>
-<circle cx="160" cy="188" r="36" fill="#78838B"/>
-<circle cx="160" cy="188" r="22" fill="#343B40"/>
+<circle cx="160" cy="188" r="78" fill="#343B40" fill-opacity=".94"/>
+<path d="M112 188c0-20 14-36 34-36h28c20 0 34 16 34 36s-14 36-34 36h-28c-20 0-34-16-34-36z" fill="#E2E7EA"/>
 </g>
 <path d="M46 43h13l-8 16H38z" fill="#D5FF3F"/>
 <text x="73" y="58" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS  /  RAWPOWERED</text>
