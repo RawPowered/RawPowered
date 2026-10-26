@@ -68,6 +68,7 @@ Six routes connect systems, web products, creative work, AI, marketing, and phys
 <td colspan="2" valign="top">
 <h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-work">Engineering and product design</a></h3>
 <p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
+<p><a href="https://github.com/RawPowered/TheMoun">The Moun: complete design and engineering archive</a> — CAD references, electrical diagrams, manufacturing plans, research, and original artwork. Portfolio review only; original rights reserved.</p>
 <p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="34"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="34"></a></p>
 <p><sub><a href="https://github.com/RawPowered/Grade-Station">Grade Station product showcase</a> · <a href="https://github.com/RawPowered/COMPIO">COMPIO product showcase</a></sub></p>
 </td>
