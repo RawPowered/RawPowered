@@ -42,7 +42,7 @@ My interface work connects a clear first impression to a useful next step: under
 
 ## Applying the same critique to this profile
 
-The earlier profile used a tall generic banner, repeated tags, uneven screenshot proportions, and several competing role routes. This revision reduces the banner, introduces two clear starting points, standardizes preview framing, and moves detailed proof into linked cases.
+The earlier profile used a tall generic banner, repeated tags, uneven screenshot proportions, and several competing role routes. The current profile uses a compact banner, six routes covering systems, web products, creative work, AI, marketing, and physical product concepts, and consistent project previews. Direct evidence links sit before the route directory, visible text headings accompany the artwork, and detailed verification notes remain in linked cases.
 
 The revision improves visual consistency and reduces duplication. Conversion and usability effects remain unmeasured. Preview crops retain real source pixels; full interface captures remain available through the original tours.
 

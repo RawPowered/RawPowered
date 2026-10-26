@@ -7,53 +7,69 @@ I build systems and products that help teams run work and serve customers. My ex
 I am open to roles in business systems, IT and operations, automation, and web and product delivery. I am also pursuing creative roles in screenwriting and story development, voice acting and performance, and game design and development. My portfolio shows script and story material, UI/UX, game systems, and playable prototypes, with my contribution and each project's stage identified. I am especially interested in work across space, defense, AI, industrial technology, construction, and solar.
 
 <p><a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/profile/social/linkedin.svg" alt="LinkedIn: view my professional profile" height="58"></a> <a href="https://github.com/RawPowered?tab=repositories"><img src="assets/profile/social/github.svg" alt="GitHub: browse my public repositories" height="58"></a></p>
+<p><sub><a href="https://www.linkedin.com/in/josephedwardscto/">LinkedIn: view my professional profile</a> · <a href="https://github.com/RawPowered?tab=repositories">GitHub: browse my public repositories</a></sub></p>
+
+**Selected evidence:** [Expert Solar systems ownership](docs/EXPERT-SOLAR.md) · [Released workflow source](https://github.com/RawPowered/flow-fountain-for-crms) · [Playable game beta](https://github.com/RawPowered/Crawl-Brawl/releases/latest) · [Original script sample](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain)
+
+**Construction and sales operations:** [CRM, field workflows, commissions, websites, and marketing](docs/OPERATIONS.md#construction-and-sales-operations).
 
 <h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
 
-Five starting points make it easier to reach the work that fits your opening. Project pages identify their current status and available evidence.
+Six routes connect systems, web products, creative work, AI, marketing, and physical product concepts. Choose the area closest to your opening; each project identifies its contribution, evidence, and current stage.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="systems-it-automation"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></h3>
+<h3 id="systems-it-automation">Systems, IT and automation</h3>
+<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/category-art/systems-automation.png" alt="Systems administration, CRM, workflow automation, APIs, integrations, and support operations." width="100%"></a></p>
 <p>Systems administration, CRM, workflow automation, APIs, integrations, and support operations.</p>
 <p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/actions/systems-admin.svg" alt="Systems administration" height="34"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/actions/crm-delivery.svg" alt="CRM delivery" height="34"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/actions/apis-automation.svg" alt="APIs and automation" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Systems-Administration-Portfolio">Systems administration</a> · <a href="https://github.com/RawPowered/CRM-Integration-Portfolio">CRM delivery</a> · <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio">APIs and automation</a></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 id="web-digital-products"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></h3>
+<h3 id="web-digital-products">Web and digital products</h3>
+<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/category-art/web-digital.png" alt="Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces." width="100%"></a></p>
 <p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces.</p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-wordpress.svg" alt="Web and WordPress work" height="34"></a> <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC case" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Web and WordPress work</a> · <a href="https://github.com/RawPowered/305UGC-Showcase">305UGC case</a></sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 id="creative-interactive"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></h3>
+<h3 id="creative-interactive">Creative and interactive design</h3>
+<p><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/category-art/creative-game-design.png" alt="Creative and game design, including current Civilian 66 characters and an Xbox controller." width="100%"></a></p>
 <p>Show and screenplay writing, illustration, UI/UX, game stories, player loops, systems, and economies. Game implementation examples use Godot and Unreal Engine.</p>
 <p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="assets/profile/actions/earth-to-jay.svg" alt="Earth To Jay" height="34"></a> <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/actions/game-design.svg" alt="Game design" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-brawl.svg" alt="Crawl Brawl" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio">Earth To Jay</a> · <a href="https://github.com/RawPowered/Game-Design-Portfolio">Game design</a> · <a href="https://github.com/RawPowered/Crawl-Brawl">Crawl Brawl</a></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 id="ai-emerging-technology"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></h3>
+<h3 id="ai-emerging-technology">AI and emerging technology</h3>
+<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
 <p>AI-assisted products, model integration, research and content assessment, and image or video development. I describe model use and project status where shown.</p>
 <p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="34"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="34"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/RawMarkets">RawMarkets overview</a> · <a href="https://github.com/RawPowered/RawGraded">RawGraded Studio</a> · <a href="https://github.com/RawPowered/LuxuryCatalog">LuxuryCatalog showcase</a> · <a href="https://github.com/RawPowered/XRepHunter">XRepHunter showcase</a> · <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite">GPT-5.6 SOL guide</a> · <a href="https://github.com/RawPowered/Design-Judgment-Portfolio">Design and evaluation work</a></sub></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 id="marketing-growth"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="360"></a></h3>
+<h3 id="marketing-growth">Marketing and growth</h3>
+<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="360"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="400"></a></p>
 <p>Organic search, content, and social media work across organic and paid channels.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio">Marketing and SEO portfolio</a></sub></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-design">Engineering and product design</a></h3>
+<h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-work">Engineering and product design</a></h3>
 <p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
 <p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="34"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Grade-Station">Grade Station product showcase</a> · <a href="https://github.com/RawPowered/COMPIO">COMPIO product showcase</a></sub></p>
 </td>
 </tr>
 </table>
@@ -67,34 +83,42 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="flow-fountain"><a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/project-titles/flow-fountain.svg" alt="Flow Fountain project" width="100%"></a></h3>
+<h3 id="flow-fountain">Flow Fountain for CRMs</h3>
+<p><a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/project-titles/flow-fountain.svg" alt="Flow Fountain project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/fountain-preview.png" alt="Flow Fountain workflow editor with fictional data and mocked responses" width="100%"></a>
 <p>Self-hosted workflow authoring, integration controls, execution review, and audit context.</p>
 <p><strong>Source preview:</strong> built first for GoHighLevel/LeadConnector. Each additional CRM needs its own adapter and configuration.</p>
 <p><a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/actions/flow-project.svg" alt="Flow Fountain project" height="34"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/actions/flow-api.svg" alt="API and automation details" height="34"></a> <a href="https://github.com/RawPowered/flow-fountain-for-crms/actions/workflows/ci.yml"><img src="assets/profile/actions/build-checks.svg" alt="Build checks" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/flow-fountain-for-crms">Flow Fountain project</a> · <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio">API and automation details</a> · <a href="https://github.com/RawPowered/flow-fountain-for-crms/actions/workflows/ci.yml">Build checks</a></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 id="305ugc-suite"><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/project-titles/305ugc.svg" alt="305UGC Suite project" width="100%"></a></h3>
+<h3 id="305ugc-suite">305UGC Suite</h3>
+<p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/project-titles/305ugc.svg" alt="305UGC Suite project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/305ugc-preview.png" alt="Capture of the public 305UGC website" width="100%"></a>
-<p>Responsive web design, guided project intake, and a WordPress and Zoho CRM integration architecture.</p>
-<p><strong>Portfolio project:</strong> public site captured; full operational acceptance remains pending.</p>
+<p>Built a responsive construction website and guided project intake, with a documented WordPress–Zoho CRM architecture.</p>
+<p><strong>Evidence:</strong> desktop/mobile website captures and integration walkthrough. <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/PROJECT-STATUS.md">Project scope</a>: full customer-flow acceptance remains pending.</p>
 <p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-project.svg" alt="305UGC project" height="34"></a> <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-mobile.svg" alt="Web and mobile case" height="34"></a> <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md"><img src="assets/profile/actions/crm-integration.svg" alt="CRM integration" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/305UGC-Showcase">305UGC project</a> · <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Web and mobile case</a> · <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md">CRM integration</a></sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 id="powerportals"><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/project-titles/powerportals.svg" alt="PowerPortals project" width="100%"></a></h3>
+<h3 id="powerportals">PowerPortals</h3>
+<p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/project-titles/powerportals.svg" alt="PowerPortals project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/powerportals-preview.png" alt="PowerPortals project selection tour using fictional records" width="100%"></a>
-<p>Configurable intake, customer and team workspaces, and Zoho companion widgets.</p>
-<p><strong>Private validation:</strong> public tours use fictional data; source and commercial installation are reviewed separately.</p>
+<p>Designed configurable project intake, customer and team workspaces, and Zoho companion widgets.</p>
+<p><strong>Evidence:</strong> fictional-data product tours and design decisions. Private validation; commercial installation is reviewed separately.</p>
 <p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/actions/power-project.svg" alt="PowerPortals project" height="34"></a> <a href="https://github.com/RawPowered/PowerPortals-Showcase#product-tour"><img src="assets/profile/actions/product-tour.svg" alt="Product tour" height="34"></a> <a href="docs/DESIGN.md#powerportals-make-a-complex-request-approachable"><img src="assets/profile/actions/design-review.svg" alt="Design review" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals project</a> · <a href="https://github.com/RawPowered/PowerPortals-Showcase#product-tour">Product tour</a> · <a href="docs/DESIGN.md#powerportals-make-a-complex-request-approachable">Design review</a></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 id="osint-dive-deep"><a href="https://github.com/RawPowered/osint-dive-deep-v1"><img src="assets/profile/project-titles/dive-deep.svg" alt="OSINT Dive Deep project" width="100%"></a></h3>
+<h3 id="osint-dive-deep">OSINT Dive Deep</h3>
+<p><a href="https://github.com/RawPowered/osint-dive-deep-v1"><img src="assets/profile/project-titles/dive-deep.svg" alt="OSINT Dive Deep project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/osint-dive-deep-v1"><img src="assets/profile/dive-deep-preview.png" alt="Dive Deep research workspace in a blank documentation case" width="100%"></a>
 <p>Research studio, web API, provider adapters, and job-scoped worker architecture.</p>
 <p><strong>Released source:</strong> hosted services and optional providers need operator configuration.</p>
 <p><a href="https://github.com/RawPowered/osint-dive-deep-v1"><img src="assets/profile/actions/osint-project.svg" alt="OSINT Dive Deep project" height="34"></a> <a href="https://github.com/RawPowered/osint-dive-deep-v1/blob/main/docs/ARCHITECTURE.md"><img src="assets/profile/actions/architecture.svg" alt="Architecture" height="34"></a> <a href="https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml"><img src="assets/profile/actions/release-checks.svg" alt="Release checks" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/osint-dive-deep-v1">OSINT Dive Deep project</a> · <a href="https://github.com/RawPowered/osint-dive-deep-v1/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/RawPowered/osint-dive-deep-v1/actions/workflows/verify.yml">Release checks</a></sub></p>
 </td>
 </tr>
 </table>
@@ -104,24 +128,28 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3 id="civilian66-game-design"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/project-titles/civilian66-game-design.svg" alt="Civilian 66 gameplay systems, progression and technical design portfolio" width="100%"></a></h3>
+<h3 id="civilian66-game-design">Civilian 66: gameplay systems and technical design</h3>
+<p><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/project-titles/civilian66-game-design.svg" alt="Civilian 66 gameplay systems, progression and technical design portfolio" width="100%"></a></p>
 <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Civilian66-Public/main/assets/civilian66-bible-cover.png" alt="Civilian 66 game direction, from the underground Mines to the alien surface" width="100%"></a>
 <p>Story and world direction, character work, progression case studies, and a proposed Bloopi plush line.</p>
 <p><strong>Status:</strong> independent game in development. The public project page is a curated showcase; its Unreal Engine clip is an early proof of play, not a public standalone release.</p>
 <p><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/actions/civilian-project.svg" alt="Civilian 66 portfolio" height="34"></a> <a href="https://github.com/RawPowered/Game-Design-Portfolio#selected-design-work"><img src="assets/profile/actions/civilian-design.svg" alt="Civilian 66 design work" height="34"></a> <a href="https://github.com/RawPowered/Civilian66-Public"><img src="assets/profile/actions/game-overview.svg" alt="Game overview and code sets" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Game-Design-Portfolio">Civilian 66 portfolio</a> · <a href="https://github.com/RawPowered/Game-Design-Portfolio#selected-design-work">Civilian 66 design work</a> · <a href="https://github.com/RawPowered/Civilian66-Public">Game overview and code sets</a></sub></p>
 </td>
 <td width="33%" valign="top">
 <h3 id="crawl-brawl">Crawl Brawl</h3>
 <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="https://raw.githubusercontent.com/RawPowered/Crawl-Brawl/main/assets/showcase/latest-gameplay-1080p.gif" alt="Crawl Brawl gameplay showing underground exploration, building, materials, UI, and combat" width="100%"></a>
 <p>Playable Windows beta and Godot project. Digging, resource collection, base building, defense, and combat form the current play loop.</p>
 <p><a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-project.svg" alt="Crawl Brawl project" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl/releases/latest"><img src="assets/profile/actions/crawl-download.svg" alt="Download Windows beta" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame"><img src="assets/profile/actions/crawl-gameplay.svg" alt="Latest gameplay reel" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Crawl-Brawl">Crawl Brawl project</a> · <a href="https://github.com/RawPowered/Crawl-Brawl/releases/latest">Download Windows beta</a> · <a href="https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame">Latest gameplay reel</a></sub></p>
 </td>
 <td width="33%" valign="top">
 <h3 id="earth-to-jay">Earth To Jay</h3>
 <a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="https://raw.githubusercontent.com/RawPowered/Earth-To-Jay-Portfolio/main/artwork/story-frames/01-jay-workspace.png" alt="Earth To Jay storyboard concept showing Jay at work" width="100%"></a>
-<p>Original animated-adventure concept with show planning, character writing, screenplay work, and scripted voice performance.</p>
+<p>Original animated-adventure concept with show planning, character writing, and screenplay work. <strong>Voice performance reel in production.</strong></p>
 <p><strong>Visual development:</strong> AI-assisted storyboard concepts, identified as development images.</p>
 <p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="assets/profile/actions/earth-project.svg" alt="Earth To Jay portfolio" height="34"></a> <a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain"><img src="assets/profile/actions/earth-script.svg" alt="Script excerpt" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio">Earth To Jay portfolio</a> · <a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain">Script excerpt</a></sub></p>
 </td>
 </tr>
 </table>
@@ -129,17 +157,20 @@ Five starting points make it easier to reach the work that fits your opening. Pr
 <h3 id="ai-and-model-work">AI and model work</h3>
 
 <p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="34"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="34"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="34"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="34"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="34"></a></p>
-<p>RawMarkets is a market research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public product overview. <strong>RawGraded Studio</strong> combines local-first card capture, image analysis, deterministic grading math, and optional AI evidence passes. <strong>LuxuryCatalog</strong> uses Gemini image models to turn line-art door designs into catalog imagery and supports batch processing, PDF export, and PDF-based recovery. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment, with AI-image signals and account or feed analysis; its showcase describes the prototype without publishing its working source. I identify model use and project status alongside each example.</p>
+<p><sub><a href="https://github.com/RawPowered/RawMarkets">RawMarkets overview</a> · <a href="https://github.com/RawPowered/RawGraded">RawGraded Studio</a> · <a href="https://github.com/RawPowered/LuxuryCatalog">LuxuryCatalog showcase</a> · <a href="https://github.com/RawPowered/XRepHunter">XRepHunter showcase</a> · <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite">GPT-5.6 SOL guide</a> · <a href="https://github.com/RawPowered/Design-Judgment-Portfolio">Design and evaluation work</a></sub></p>
+<p>RawMarkets publishes the source and historical interface captures of a market-research desktop product with data ingestion, portfolio tools, and an optional AI copilot. <strong>RawGraded Studio</strong> combines local-first card capture, image analysis, deterministic grading math, and optional AI evidence passes. <strong>LuxuryCatalog</strong> uses Gemini image models to turn line-art door designs into catalog imagery and supports batch processing, PDF export, and PDF-based recovery. <strong>XRepHunter</strong> is a browser-extension prototype for social content assessment, with local heuristics and optional browser-based models. Its public repository includes source, tests, architecture, and redacted running-interface captures. Scores remain human-review signals. I identify model use and project status alongside each example.</p>
 
 <h3 id="physical-product-work">Physical product work</h3>
 
 <p>Product concepts that bring industrial design, engineering details, brand systems, and companion experiences together.</p>
 <p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product design" height="34"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product concept" height="34"></a></p>
+<p><sub><a href="https://github.com/RawPowered/Grade-Station">Grade Station product design</a> · <a href="https://github.com/RawPowered/COMPIO">COMPIO product concept</a></sub></p>
 
 <h3 id="historical-web-and-education-work">Earlier web and education work</h3>
 
 <p>Earlier work includes WordPress multisite and LMS development through TactiveLearning and cannabisuniversity.org. A surviving public archive shows a 2013 Gravity Forms question posted under the TactiveLearning name, supporting a historical WordPress and form-work connection. I recall that TactiveLearning served Western Governors University cohorts and reached more than 10,000 learners over its lifetime; the surviving public record does not independently verify the university relationship or learner count.</p>
 <p><a href="https://legacy.forums.gravityhelp.com/topic/export-to-csv-link-on-page"><img src="assets/profile/actions/tactive-history.svg" alt="TactiveLearning archive" height="34"></a></p>
+<p><sub><a href="https://legacy.forums.gravityhelp.com/topic/export-to-csv-link-on-page">TactiveLearning archive</a></sub></p>
 
 <h2 id="operational-experience"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Operational experience</h2>
 

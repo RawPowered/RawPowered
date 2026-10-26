@@ -10,7 +10,7 @@ XRepHunter is a browser extension prototype for reviewing social content and acc
 
 **Evidence to show:** extension screenshots or a short walkthrough, a system diagram, the signal categories, model behavior and limitations, and the current build status. Model-derived flags should be presented as assessments, not proof that a person or post is authentic or inauthentic.
 
-**Showcase:** [Open the public repository](https://github.com/RawPowered/XRepHunter). The repository currently contains a curated overview. The working folder contains generated build output and installed dependencies, so the showcase does not mirror it or publish its working source.
+**Showcase:** [Open the public repository](https://github.com/RawPowered/XRepHunter). The repository includes TypeScript source, tests, build instructions, architecture and scoring notes, and redacted captures of the running extension. It remains a development prototype; scores are human-review signals, not validated authenticity findings.
 
 ### RawGraded Studio
 
@@ -28,11 +28,11 @@ LuxuryCatalog turns black-and-white door line art into catalog imagery with Gemi
 
 This independent prompt and operations guide organizes enterprise-oriented AI workflows, cybersecurity education, validation playbooks, and reusable templates. The public project page should make the scope and review method clear, distinguish original material from references to external model documentation, and avoid implying OpenAI authorship, endorsement, or certification.
 
-**Showcase:** [Open the public repository](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite). The repository currently contains a concise overview. A system map, selected examples, validation process, revision notes, and explicit use limits can be added after the distribution archives and working revisions receive a content and licensing review.
+**Showcase:** [Open the public repository](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite). The repository publishes the complete guide, prompt libraries, operational templates, revision notes, and evaluation materials. The validation playbook separates static checks from runtime performance, which remains pending.
 
 ### RawMarkets and design evaluation
 
-[RawMarkets](https://github.com/RawPowered/RawMarkets) is a market-research desktop product in progress with data ingestion, portfolio tools, and an AI copilot in its public overview. The local model setup needs fresh verification after an environment change. [Design evaluation work](https://github.com/RawPowered/Design-Judgment-Portfolio) documents how generated and interface work is assessed.
+[RawMarkets](https://github.com/RawPowered/RawMarkets) publishes application source and historical interface captures for a market-research desktop product with data ingestion, portfolio tools, and optional AI providers. Source availability does not establish current local-model or provider acceptance. [Design evaluation work](https://github.com/RawPowered/Design-Judgment-Portfolio) documents how generated and interface work is assessed.
 
 ## Physical product work
 
@@ -46,16 +46,16 @@ Grade Station is a product engineering and design project under the Moun EPIC pl
 
 COMPIO is a companion-product concept centered on a connected watch and supporting app. Its materials include watch hardware concepts, app-interface designs, identity and brand standards, and product direction for daily health and care routines.
 
-**Showcase:** [Open the public repository](https://github.com/RawPowered/COMPIO). It includes a selected watch concept labeled as design exploration. Product renders, selected app screens, and the relationship between the wearable and companion experience can be expanded after review of the research, planning, and working files.
+**Showcase:** [Open the public repository](https://github.com/RawPowered/COMPIO). It includes selected watch and companion-app concepts labeled as design exploration. Product renders, selected app screens, and the relationship between the wearable and companion experience can be expanded after review of the research, planning, and working files.
 
 ## Repository plan
 
 | Project | Existing public repository | Showcase destination |
 |---|---|---|
-| XRepHunter | [RawPowered/XRepHunter](https://github.com/RawPowered/XRepHunter) | Curated showcase repository |
+| XRepHunter | [RawPowered/XRepHunter](https://github.com/RawPowered/XRepHunter) | Source, tests, running-interface captures, and prototype notes |
 | RawGraded Studio | [RawPowered/RawGraded](https://github.com/RawPowered/RawGraded) | Existing public repository |
 | LuxuryCatalog | [RawPowered/LuxuryCatalog](https://github.com/RawPowered/LuxuryCatalog) | Existing public repository |
-| GPT-5.6 Sol Enterprise Master Suite | [RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite) | Curated overview; source and distribution materials not included |
+| GPT-5.6 Sol Enterprise Master Suite | [RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite) | Full publication and evaluation resources; runtime results pending |
 | Grade Station | [RawPowered/Grade-Station](https://github.com/RawPowered/Grade-Station) | Curated product showcase |
 | COMPIO | [RawPowered/COMPIO](https://github.com/RawPowered/COMPIO) | Curated product showcase |
 

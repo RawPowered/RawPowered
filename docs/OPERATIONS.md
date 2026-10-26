@@ -10,6 +10,20 @@ At Expert Solar, my work included Salesforce/Zoho administration, internal tooli
 
 My wider administration work includes Microsoft 365/Google Workspace transitions and Apple MDM configuration for field iPhones and tablets. [Background and scope](BACKGROUND.md).
 
+## Construction and sales operations
+
+My construction and solar work connects field activity, sales records, project handoffs, and the systems teams use to follow through. Start with the area relevant to your team:
+
+| Need | Work to review |
+|---|---|
+| CRM administration and migrations | [Expert Solar](EXPERT-SOLAR.md) and [CRM integration portfolio](https://github.com/RawPowered/CRM-Integration-Portfolio) |
+| Field locations and pipeline visibility | [Zoho widget tours](https://github.com/RawPowered/Zoho-CRM-Widgets) |
+| Materials, scope, tasks, and commissions | [Zoho automation library](https://github.com/RawPowered/Zoho-CRM-Automations) |
+| Customer inquiries and follow-up | [305UGC website and intake](https://github.com/RawPowered/305UGC-Showcase) and [PowerPortals](https://github.com/RawPowered/PowerPortals-Showcase) |
+| Service websites and marketing | [RoofRoofTexas rebuild](https://github.com/RawPowered/RoofRoofTexas-Rebuild) and [marketing evidence](https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio) |
+
+These examples establish systems, interface, and operational work at the stages described in each case. Historical cost savings are self-reported; direct selling results, quota attainment, and sales attributed to campaigns are not established by this portfolio.
+
 ## Then inspect the tools
 
 | Operational question | Relevant work |
