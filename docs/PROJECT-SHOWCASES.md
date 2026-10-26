@@ -40,7 +40,7 @@ This independent prompt and operations guide organizes enterprise-oriented AI wo
 
 Grade Station is a product engineering and design project under the Moun EPIC platform. Its working materials span product concepts, modular construction, electrical diagrams, manufacturing considerations, brand presentation, and a customer-facing build experience.
 
-**Showcase:** [Open the public repository](https://github.com/RawPowered/Grade-Station). It includes a selected product render labeled as a concept. More engineering diagrams or product-development evidence should be added only after review. The source folder also contains deployment, investor, and access-controlled materials; the public page does not mirror that folder.
+**Showcase:** [Grade Station](https://github.com/RawPowered/Grade-Station) introduces the project, while [The Moun archive](https://github.com/RawPowered/TheMoun) publishes all 155 supplied artwork and built-presentation files. Review [33 readable sections](https://github.com/RawPowered/TheMoun/blob/main/docs/INDEX.md), 12 diagram exports, CAD/editor references, the OBJ mesh, and layered Photoshop originals. The publication is for portfolio review with original rights reserved; development targets and planning scenarios are not verified manufactured-product results.
 
 ### COMPIO
 
