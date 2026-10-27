@@ -53,7 +53,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <td width="50%" valign="top">
 <h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-work">Engineering and product design</a></h3>
 <p><a href="https://github.com/RawPowered/TheMoun"><img src="assets/profile/routes/physical-products.svg" alt="Engineering and product design" width="100%"></a></p>
-<p><a href="https://github.com/RawPowered/TheMoun"><img src="https://raw.githubusercontent.com/RawPowered/TheMoun/main/presentation/modular-exploded-service-reference.png" alt="The Moun modular assembly and service design reference" width="100%"></a></p>
+<p><a href="https://github.com/RawPowered/TheMoun"><img src="assets/profile/category-art/engineering-moun-glass.png" alt="The Moun capture workstation represented as a translucent glass model, with twin adjustable columns, overhead scanning frame, and lime accents" width="100%"></a></p>
 <p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
 <p><a href="https://github.com/RawPowered/TheMoun">The Moun: complete design and engineering archive</a> — CAD references, electrical diagrams, manufacturing plans, research, and original artwork. Portfolio review only; original rights reserved.</p>
 <p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="32"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="32"></a></p>
