@@ -42,8 +42,10 @@ My interface work connects a clear first impression to a useful next step: under
 
 ## Applying the same critique to this profile
 
-The earlier profile used a tall generic banner, repeated tags, uneven screenshot proportions, and several competing role routes. The current profile uses a compact banner, six routes covering systems, web products, creative work, AI, marketing, and physical product concepts, and consistent project previews. Direct evidence links sit before the route directory, visible text headings accompany the artwork, and detailed verification notes remain in linked cases.
+The profile opens with a role-based reading guide and selected cases spanning AI critique, catalog imagery, workflow software, interface design, games, and physical products. The six category routes retain the existing illustrations and connect the rest of the portfolio. Individual AI summaries replace a dense multi-project paragraph, and repeated button captions are consolidated.
 
-The revision improves visual consistency and reduces duplication. Conversion and usability effects remain unmeasured. Preview crops retain real source pixels; full interface captures remain available through the original tours.
+The existing header, category artwork, palette, and vector style are preserved. New project titles extend the same vector system. Text headings, descriptive image alt text, and direct evidence links accompany the artwork. The AI category opens a [curated reading guide](AI-AND-DESIGN.md) covering both design judgment and applied systems, rather than a single product.
+
+Project status and verification limits remain attached to their cases. These changes are intended to improve navigation; recruiter conversion and usability effects remain unmeasured.
 
 I use AI-assisted tools during implementation and editing. Clear critique, hierarchy, accurate status, source review, and responsibility for the final presentation remain essential parts of the work.
