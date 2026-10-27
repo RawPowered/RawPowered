@@ -10,6 +10,66 @@ I build practical systems and products, and make the design decisions behind the
 
 **Start with the work:** [AI art critique](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md) · [Line art to catalog](https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md) · [Released workflow source](https://github.com/RawPowered/flow-fountain-for-crms) · [Playable game beta](https://github.com/RawPowered/Crawl-Brawl/releases/latest)
 
+**Explore:** [All six categories](#find-your-route) · [Role guide](#start-here) · [Selected work](#featured-projects) · [More projects](#additional-projects) · [Operational experience](#operational-experience) · [How I work](#how-i-work)
+
+<h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
+
+Choose a discipline to explore the portfolio. Each route connects the projects, contribution details, and supporting evidence for that area.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 id="systems-it-automation">Systems, IT and automation</h3>
+<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></p>
+<p align="center"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/category-art/systems-automation.png" alt="Systems administration, CRM, workflow automation, APIs, integrations, and support operations." width="100%"></a></p>
+<p>Systems administration, CRM, workflow automation, APIs, integrations, and support operations. Additional cases: <a href="https://github.com/RawPowered/RawOps-Suite">RawOps Suite</a> and <a href="https://github.com/RawPowered/StrikeScope">StrikeScope</a>.</p>
+<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/actions/systems-admin.svg" alt="Systems administration" height="32"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/actions/crm-delivery.svg" alt="CRM delivery" height="32"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/actions/apis-automation.svg" alt="APIs and automation" height="32"></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 id="web-digital-products">Web and digital products</h3>
+<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></p>
+<p align="center"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/category-art/web-digital.png" alt="Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces." width="100%"></a></p>
+<p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces. See also <a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals</a> and the <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild">RoofRoofTexas rebuild</a>.</p>
+<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-wordpress.svg" alt="Web and WordPress work" height="32"></a> <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC case" height="32"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 id="creative-interactive">Creative and interactive design</h3>
+<p><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></p>
+<p align="center"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/category-art/creative-game-design.png" alt="Creative and game design, including current Civilian 66 characters and an Xbox controller." width="100%"></a></p>
+<p>Show and screenplay writing, illustration, UI/UX, game stories, player loops, systems, and economies. Game implementation examples use Godot and Unreal Engine.</p>
+<p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="assets/profile/actions/earth-to-jay.svg" alt="Earth To Jay" height="32"></a> <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/actions/game-design.svg" alt="Game design" height="32"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-brawl.svg" alt="Crawl Brawl" height="32"></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 id="ai-emerging-technology">AI and emerging technology</h3>
+<p><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></p>
+<p align="center"><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
+<p>Visual critique, AI-assisted products, model integration, research and content assessment, and image or video development. <a href="docs/AI-AND-DESIGN.md">Start with the AI and design reading guide</a>; model use and project stage are identified in each case.</p>
+<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="32"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="32"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="32"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="32"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="32"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="32"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-work">Engineering and product design</a></h3>
+<p><a href="https://github.com/RawPowered/TheMoun"><img src="assets/profile/routes/physical-products.svg" alt="Engineering and product design" width="100%"></a></p>
+<p><a href="https://github.com/RawPowered/TheMoun"><img src="https://raw.githubusercontent.com/RawPowered/TheMoun/main/presentation/modular-exploded-service-reference.png" alt="The Moun modular assembly and service design reference" width="100%"></a></p>
+<p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
+<p><a href="https://github.com/RawPowered/TheMoun">The Moun: complete design and engineering archive</a> — CAD references, electrical diagrams, manufacturing plans, research, and original artwork. Portfolio review only; original rights reserved.</p>
+<p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="32"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="32"></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 id="marketing-growth">Marketing and growth</h3>
+<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="100%"></a></p>
+<p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="100%"></a></p>
+<p>Organic search, content, and social media work across organic and paid channels. <a href="https://github.com/RawPowered/Facebook-Ads-Management-Showcase">Inspect the paid campaign evidence</a>.</p>
+<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="32"></a></p>
+</td>
+</tr>
+</table>
+
+<p><strong>Looking for another fit?</strong> Start with the project closest to the work, then follow its design, engineering, or operations evidence.</p>
+
 <h2 id="start-here"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Start with your role</h2>
 
 | Your focus | Evidence to review first |
@@ -20,8 +80,6 @@ I build practical systems and products, and make the design decisions behind the
 | **Web / product / UI and UX** | [305UGC web and mobile](https://github.com/RawPowered/305UGC-Showcase) · [PowerPortals guided intake](https://github.com/RawPowered/PowerPortals-Showcase#product-tour) · [RoofRoofTexas rebuild](https://github.com/RawPowered/RoofRoofTexas-Rebuild) |
 | **Game / narrative / creative development** | [Crawl Brawl gameplay](https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame) · [Civilian 66 design](https://github.com/RawPowered/Game-Design-Portfolio) · [Earth To Jay script](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain) |
 | **Product design / marketing / operations** | [The Moun design archive](https://github.com/RawPowered/TheMoun) · [Marketing and SEO evidence](https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio) · [Construction and sales operations](docs/OPERATIONS.md#construction-and-sales-operations) |
-
-**Explore:** [Selected work](#featured-projects) · [All six categories](#find-your-route) · [More projects](#additional-projects) · [Operational experience](#operational-experience) · [How I work](#how-i-work)
 
 <h2 id="featured-projects"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Selected work</h2>
 
@@ -85,64 +143,6 @@ Six ways to inspect my design judgment, implementation, and creative direction. 
 </td>
 </tr>
 </table>
-
-<h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
-
-Explore the full portfolio by discipline. Each route keeps the supporting projects, contribution details, and evidence available beyond the selected work above.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 id="systems-it-automation">Systems, IT and automation</h3>
-<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/routes/systems.svg" alt="Systems, IT and automation" width="100%"></a></p>
-<p align="center"><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/category-art/systems-automation.png" alt="Systems administration, CRM, workflow automation, APIs, integrations, and support operations." width="100%"></a></p>
-<p>Systems administration, CRM, workflow automation, APIs, integrations, and support operations. Additional cases: <a href="https://github.com/RawPowered/RawOps-Suite">RawOps Suite</a> and <a href="https://github.com/RawPowered/StrikeScope">StrikeScope</a>.</p>
-<p><a href="https://github.com/RawPowered/Systems-Administration-Portfolio"><img src="assets/profile/actions/systems-admin.svg" alt="Systems administration" height="32"></a> <a href="https://github.com/RawPowered/CRM-Integration-Portfolio"><img src="assets/profile/actions/crm-delivery.svg" alt="CRM delivery" height="32"></a> <a href="https://github.com/RawPowered/API-Integration-Automation-Portfolio"><img src="assets/profile/actions/apis-automation.svg" alt="APIs and automation" height="32"></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 id="web-digital-products">Web and digital products</h3>
-<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></p>
-<p align="center"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/category-art/web-digital.png" alt="Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces." width="100%"></a></p>
-<p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces. See also <a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals</a> and the <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild">RoofRoofTexas rebuild</a>.</p>
-<p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-wordpress.svg" alt="Web and WordPress work" height="32"></a> <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC case" height="32"></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 id="creative-interactive">Creative and interactive design</h3>
-<p><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/routes/creative.svg" alt="Creative and interactive design" width="100%"></a></p>
-<p align="center"><a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/category-art/creative-game-design.png" alt="Creative and game design, including current Civilian 66 characters and an Xbox controller." width="100%"></a></p>
-<p>Show and screenplay writing, illustration, UI/UX, game stories, player loops, systems, and economies. Game implementation examples use Godot and Unreal Engine.</p>
-<p><a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio"><img src="assets/profile/actions/earth-to-jay.svg" alt="Earth To Jay" height="32"></a> <a href="https://github.com/RawPowered/Game-Design-Portfolio"><img src="assets/profile/actions/game-design.svg" alt="Game design" height="32"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-brawl.svg" alt="Crawl Brawl" height="32"></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 id="ai-emerging-technology">AI and emerging technology</h3>
-<p><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></p>
-<p align="center"><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
-<p>Visual critique, AI-assisted products, model integration, research and content assessment, and image or video development. <a href="docs/AI-AND-DESIGN.md">Start with the AI and design reading guide</a>; model use and project stage are identified in each case.</p>
-<p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="32"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="32"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="32"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="32"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="32"></a> <a href="https://github.com/RawPowered/Design-Judgment-Portfolio"><img src="assets/profile/actions/design-evaluation.svg" alt="Design and evaluation work" height="32"></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 id="physical-products"><a href="docs/PROJECT-SHOWCASES.md#physical-product-work">Engineering and product design</a></h3>
-<p><a href="https://github.com/RawPowered/TheMoun"><img src="assets/profile/routes/physical-products.svg" alt="Engineering and product design" width="100%"></a></p>
-<p><a href="https://github.com/RawPowered/TheMoun"><img src="https://raw.githubusercontent.com/RawPowered/TheMoun/main/presentation/modular-exploded-service-reference.png" alt="The Moun modular assembly and service design reference" width="100%"></a></p>
-<p>Physical product concepts spanning product engineering, design, branding, and supporting digital experiences.</p>
-<p><a href="https://github.com/RawPowered/TheMoun">The Moun: complete design and engineering archive</a> — CAD references, electrical diagrams, manufacturing plans, research, and original artwork. Portfolio review only; original rights reserved.</p>
-<p><a href="https://github.com/RawPowered/Grade-Station"><img src="assets/profile/actions/grade-station.svg" alt="Grade Station product showcase" height="32"></a> <a href="https://github.com/RawPowered/COMPIO"><img src="assets/profile/actions/compio.svg" alt="COMPIO product showcase" height="32"></a></p>
-</td>
-<td width="50%" valign="top">
-<h3 id="marketing-growth">Marketing and growth</h3>
-<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="100%"></a></p>
-<p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="100%"></a></p>
-<p>Organic search, content, and social media work across organic and paid channels. <a href="https://github.com/RawPowered/Facebook-Ads-Management-Showcase">Inspect the paid campaign evidence</a>.</p>
-<p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="32"></a></p>
-</td>
-</tr>
-</table>
-
-<p><strong>Looking for another fit?</strong> Start with the project closest to the work, then follow its design, engineering, or operations evidence.</p>
 
 <h2 id="additional-projects"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> More projects and evidence</h2>
 

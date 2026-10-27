@@ -42,7 +42,7 @@ My interface work connects a clear first impression to a useful next step: under
 
 ## Applying the same critique to this profile
 
-The profile opens with a role-based reading guide and selected cases spanning AI critique, catalog imagery, workflow software, interface design, games, and physical products. The six category routes retain the existing illustrations and connect the rest of the portfolio. Individual AI summaries replace a dense multi-project paragraph, and repeated button captions are consolidated.
+The profile places its six illustrated category routes directly after the introduction and compact jump navigation. The role-based reading guide and selected cases follow the categories, covering AI critique, catalog imagery, workflow software, interface design, games, and physical products. The category routes retain the existing illustrations and connect the rest of the portfolio. Individual AI summaries replace a dense multi-project paragraph, and repeated button captions are consolidated.
 
 The existing header, category artwork, palette, and vector style are preserved. New project titles extend the same vector system. Text headings, descriptive image alt text, and direct evidence links accompany the artwork. The AI category opens a [curated reading guide](AI-AND-DESIGN.md) covering both design judgment and applied systems, rather than a single product.
 
