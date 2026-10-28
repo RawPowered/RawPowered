@@ -34,6 +34,17 @@ This independent prompt and operations guide organizes enterprise-oriented AI wo
 
 [RawMarkets](https://github.com/RawPowered/RawMarkets) publishes application source and historical interface captures for a market-research desktop product with data ingestion, portfolio tools, and optional AI providers. Source availability does not establish current local-model or provider acceptance. [Design evaluation work](https://github.com/RawPowered/Design-Judgment-Portfolio) documents how generated and interface work is assessed.
 
+## Web and digital products
+
+[Explore the web and WordPress portfolio](https://github.com/RawPowered/Web-Experience-WordPress-Portfolio).
+
+- [BlueRoof](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) — custom WordPress roofing theme, responsive design, and dated build and performance evidence.
+- [Sales Partner Onboarding](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) — standalone WordPress plugin with configurable application roles, private intake and review, PDF workflow documentation, and free generic worksheets. Optional CRM integrations are deferred. The worksheets have not been reviewed by a legal representative and require legal review before production use.
+- [SolHydrix](https://github.com/RawPowered/SolHydrix-Showcase) — custom WordPress website, responsive design, and build, SEO, and speed review.
+- [PowerPortals](https://github.com/RawPowered/PowerPortals-Showcase) — configurable intake and customer/team portals, with fictional-data tours and documented validation scope.
+- [305UGC](https://github.com/RawPowered/305UGC-Showcase) — responsive web and mobile design, guided intake, and WordPress/CRM architecture, with project status and acceptance scope documented.
+- [RoofRoofTexas](https://github.com/RawPowered/RoofRoofTexas-Rebuild) — website rebuild case study covering design, performance, and local SEO.
+
 ## Physical product work
 
 ### Grade Station
