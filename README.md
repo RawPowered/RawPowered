@@ -29,7 +29,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <h3 id="web-digital-products">Web and digital products</h3>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/routes/web-products.svg" alt="Web and digital products" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/category-art/web-digital.png" alt="Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces." width="100%"></a></p>
-<p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces. See also <a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals</a> and the <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild">RoofRoofTexas rebuild</a>.</p>
+<p>Responsive desktop and mobile experiences, WordPress, multisite, LMS, and product interfaces. See also <a href="https://github.com/RawPowered/SolHydrix-Showcase">SolHydrix website case study</a>, <a href="https://github.com/RawPowered/PowerPortals-Showcase">PowerPortals</a>, and the <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild">RoofRoofTexas rebuild</a>.</p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-wordpress.svg" alt="Web and WordPress work" height="32"></a> <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC case" height="32"></a></p>
 </td>
 </tr>
