@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48" role="img" aria-label="Sunprise case study">
+<title>Sunprise case study</title>
+<path d="M1 1h222l16 14v32H15L1 35z" fill="#090A0B" stroke="#373A3D" stroke-width="1.5"/>
+<path d="M1 1h78l-4 4H1z" fill="#D5FF3F"/>
+<path d="M219 2h4l15 13v10L219 8z" fill="#1B1D1F"/>
+<text x="13" y="30" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#F7F8F9">Sunprise case study</text>
+<path d="M208 24h14m-6-6 6 6-6 6" fill="none" stroke="#D5FF3F" stroke-width="2"/>
+</svg>
