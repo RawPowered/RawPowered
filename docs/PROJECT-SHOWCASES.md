@@ -38,6 +38,7 @@ This independent prompt and operations guide organizes enterprise-oriented AI wo
 
 [Explore the web and WordPress portfolio](https://github.com/RawPowered/Web-Experience-WordPress-Portfolio).
 
+- [Sunlectric](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) — custom WordPress solar theme, responsive one-page and multi-page layouts, and a public visual case study. Theme source stays private.
 - [BlueRoof](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) — custom WordPress roofing theme, responsive design, and dated build and performance evidence.
 - [Sales Partner Onboarding](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) — standalone WordPress plugin with configurable application roles, private intake and review, PDF workflow documentation, and free generic worksheets. Optional CRM integrations are deferred. The worksheets have not been reviewed by a legal representative and require legal review before production use.
 - [SolHydrix](https://github.com/RawPowered/SolHydrix-Showcase) — custom WordPress website, responsive design, and build, SEO, and speed review.
