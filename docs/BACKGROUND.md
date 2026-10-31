@@ -13,7 +13,7 @@ My background combines business-system administration, workflow automation, web 
 - **SunPrise, October 2025 - October 2026 (approximate months; former engagement):** web/platform work and migration across WordPress, Google Workspace, and hosting services.
 - **305UGC:** portfolio project work, separate from a started employment engagement; operational acceptance is documented in the showcase.
 
-Dates match my LinkedIn timeline as reviewed October 25, 2026. Utoya and SunPrise month-level dates are approximate. Overlapping roles are retained. Limited SunPrise retrieval and handover assistance continues after the formal engagement.
+Dates match my LinkedIn timeline as reviewed October 25, 2026. SunPrise month-level dates are approximate. Overlapping roles are retained. Limited SunPrise retrieval and handover assistance continues after the formal engagement.
 
 ## Administration and devices
 
