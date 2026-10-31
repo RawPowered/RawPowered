@@ -2,15 +2,17 @@
 
 ![Joseph Edwards portfolio overview with six work routes and a large monochrome glass relief of Hank from Earth To Jay](assets/profile/header-portfolio-hank-front.svg)
 
-I build practical systems and products, and make the design decisions behind them reviewable. My work connects CRM and API delivery, workflow automation, web and product interfaces, applied AI, and creative development across games, characters, and stories.
+I build business systems, connected workflows, and web interfaces, with design decisions and implementation evidence you can review. My work spans CRM and API integrations, WordPress, automation, applied AI, and creative development across games, characters, and stories.
 
-**Open to AI design evaluation and quality review, systems and IT operations, automation, web/product delivery, and creative roles.** Start with the evidence closest to your opening; each case identifies my contribution, the available work, and its current stage.
+**Open to full-time and contract work in AI design evaluation and quality review, systems and IT operations, automation, web/product delivery, and creative roles.** Start with the evidence closest to your opening; each case identifies my contribution, the available work, and its current stage.
 
 <p><a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/profile/social/linkedin.svg" alt="LinkedIn: view my professional profile" height="58"></a> <a href="https://github.com/RawPowered?tab=repositories"><img src="assets/profile/social/github.svg" alt="GitHub: browse my public repositories" height="58"></a></p>
 
 **Start with the work:**
 
-<p><a href="https://github.com/RawPowered/Sunprise-WordPress-Case-Study"><img src="assets/profile/actions/sunprise-case.svg" alt="Sunprise migration and WordPress case study" height="34"></a> <a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md"><img src="assets/profile/actions/ai-art-critique.svg" alt="AI art critique" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md"><img src="assets/profile/actions/luxury-catalog.svg" alt="Line art to catalog" height="34"></a> <a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/actions/flow-project.svg" alt="Released workflow source" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-project.svg" alt="Crawl Brawl project" height="34"></a></p>
+<p><a href="https://github.com/RawPowered/Sunprise-WordPress-Case-Study"><img src="assets/profile/actions/sunprise-case.svg" alt="Sunprise migration and WordPress case study" height="34"></a> <a href="https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md"><img src="assets/profile/actions/ai-art-critique.svg" alt="AI art critique" height="34"></a> <a href="https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md"><img src="assets/profile/actions/luxury-catalog.svg" alt="Line art to catalog" height="34"></a> <a href="https://github.com/RawPowered/flow-fountain-for-crms"><img src="assets/profile/actions/flow-project.svg" alt="Flow Fountain workflow source preview" height="34"></a> <a href="https://github.com/RawPowered/Crawl-Brawl"><img src="assets/profile/actions/crawl-project.svg" alt="Crawl Brawl project" height="34"></a></p>
+
+<p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC website, intake, and CRM showcase" height="34"></a> <a href="https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase"><img src="assets/profile/actions/blueroof-theme.svg" alt="BlueRoof WordPress theme design preview" height="34"></a> <a href="https://github.com/RawPowered/StrikeScope"><img src="assets/profile/actions/strikescope.svg" alt="StrikeScope CRM architecture and access controls" height="34"></a></p>
 
 **Explore:** [All six categories](#find-your-route) · [Role guide](#start-here) · [Selected work](#featured-projects) · [More projects](#additional-projects) · [Operational experience](#operational-experience) · [How I work](#how-i-work)
 
@@ -36,10 +38,9 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <p>Custom WordPress themes, standalone plugins, multisite, LMS, and responsive web and mobile interfaces.</p>
 <p><strong>Featured case:</strong> Sunprise migration, WordPress, and communications.</p>
 <p><a href="https://github.com/RawPowered/Sunprise-WordPress-Case-Study"><img src="assets/profile/actions/sunprise-case.svg" alt="Sunprise: migration and WordPress case study" width="48%"></a> <a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/"><img src="assets/profile/actions/sunprise-visual.svg" alt="Sunprise: explore the visual case study" width="48%"></a></p>
-<p><strong>Latest builds:</strong> BlueRoof roofing theme and Sales Partner Onboarding, with configurable roles, private intake, and application review, plus the Sunlectric solar theme.</p>
+<p><strong>Latest builds:</strong> BlueRoof roofing theme design preview; Sales Partner Onboarding with configurable roles, private intake, and application review; and the Sunlectric solar theme.</p>
 <p><a href="https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase"><img src="assets/profile/actions/blueroof-theme.svg" alt="BlueRoof: custom WordPress theme showcase" width="48%"></a> <a href="https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase"><img src="assets/profile/actions/sales-onboarding.svg" alt="Sales Partner Onboarding: standalone WordPress plugin showcase" width="48%"></a><br>
-<a href="https://github.com/RawPowered/SolHydrix-Showcase"><img src="assets/profile/actions/solhydrix-site.svg" alt="SolHydrix: custom WordPress website showcase" width="48%"></a> <br>
-<a href="https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase"><img src="assets/profile/actions/sunlectric-theme.svg" alt="Sunlectric: custom WordPress theme showcase" width="48%"></a></p>
+<a href="https://github.com/RawPowered/SolHydrix-Showcase"><img src="assets/profile/actions/solhydrix-site.svg" alt="SolHydrix: custom WordPress theme design preview" width="48%"></a> <a href="https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase"><img src="assets/profile/actions/sunlectric-theme.svg" alt="Sunlectric: custom WordPress theme showcase" width="48%"></a></p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Explore the full web and WordPress portfolio →</a></p>
 </td>
 </tr>
@@ -73,7 +74,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <h3 id="marketing-growth">Marketing and growth</h3>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/routes/marketing.svg" alt="Marketing and growth" width="100%"></a></p>
 <p align="center"><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/category-art/marketing-growth.png" alt="Marketing and growth analytics chart in glass." width="100%"></a></p>
-<p>Organic search, content, and social media work across organic and paid channels. <a href="https://github.com/RawPowered/Facebook-Ads-Management-Showcase">Inspect the paid campaign evidence</a>.</p>
+<p>Organic search, content, and social media work across organic and paid channels. <a href="https://github.com/RawPowered/Facebook-Ads-Management-Showcase">Explore anonymized ad copy and campaign work</a>.</p>
 <p><a href="https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio"><img src="assets/profile/actions/marketing-seo.svg" alt="Marketing and SEO portfolio" height="32"></a></p>
 </td>
 </tr>
@@ -88,7 +89,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 | **AI Tutor / AI Design Tutor / design QA** | [Ten visual rejection decisions](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md) · [LuxuryCatalog review and refinement](https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md) · [Interface critique and rubric](https://github.com/RawPowered/Design-Judgment-Portfolio/blob/main/docs/WALKTHROUGH.md) |
 | **Applied AI / evaluation workflows** | [RawGraded image assessment](https://github.com/RawPowered/RawGraded) · [XRepHunter review signals](https://github.com/RawPowered/XRepHunter) · [Prompt and evaluation guide](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite) |
 | **Systems / IT / CRM / automation** | [Expert Solar systems ownership](docs/EXPERT-SOLAR.md) · [Sunprise migration](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Flow Fountain source](https://github.com/RawPowered/flow-fountain-for-crms) · [305UGC intake and CRM](https://github.com/RawPowered/305UGC-Showcase) · [PowerPortals](https://github.com/RawPowered/PowerPortals-Showcase) · [API and automation cases](https://github.com/RawPowered/API-Integration-Automation-Portfolio) |
-| **Web / product / UI and UX** | [Sunprise WordPress case](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Sunlectric WordPress theme](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) · [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) · [Sales Partner Onboarding plugin](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) · [SolHydrix website](https://github.com/RawPowered/SolHydrix-Showcase) |
+| **Web / product / UI and UX** | [Sunprise WordPress case](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Sunlectric WordPress theme](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) · [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) · [Sales Partner Onboarding plugin](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) · [SolHydrix design preview](https://github.com/RawPowered/SolHydrix-Showcase) |
 | **Game / narrative / creative development** | [Crawl Brawl gameplay](https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame) · [Civilian 66 design](https://github.com/RawPowered/Game-Design-Portfolio) · [Earth To Jay script](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain) |
 | **Product design / marketing / operations** | [The Moun design archive](https://github.com/RawPowered/TheMoun) · [Marketing and SEO evidence](https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio) · [Construction and sales operations](docs/OPERATIONS.md#construction-and-sales-operations) |
 
@@ -144,7 +145,7 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 <p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/project-titles/powerportals.svg" alt="PowerPortals project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/powerportals-preview.png" alt="PowerPortals project selection tour using fictional records" width="100%"></a>
 <p>Designed configurable project intake, customer and team workspaces, and Zoho companion widgets.</p>
-<p><strong>Evidence:</strong> fictional-data product tours and design decisions. Tested &amp; In Development / Pre-Release; customer-specific acceptance remains pending.</p>
+<p><strong>Status: Tested &amp; In Development / Pre-Release.</strong> PowerPortals and its Zoho companion suite remain under development. Public tours use fictional data. Testing covers documented development checks; production readiness and customer-specific acceptance remain pending.</p>
 <p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/actions/power-project.svg" alt="PowerPortals project" height="32"></a> <a href="https://github.com/RawPowered/PowerPortals-Showcase#product-tour"><img src="assets/profile/actions/product-tour.svg" alt="Product tour" height="32"></a> <a href="docs/DESIGN.md#powerportals-make-a-complex-request-approachable"><img src="assets/profile/actions/design-review.svg" alt="Design review" height="32"></a></p>
 </td>
 </tr>
@@ -241,11 +242,11 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 
 <h2 id="operational-experience"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Operational experience</h2>
 
-At Expert Solar, I administered business systems, took over outstanding CRM delivery requests, and supported the Salesforce-to-Zoho transition. My reported outcome was a reduction of approximately **$20K/month** in external development expense after delivery moved in-house.
+At Expert Solar (October 2023 - October 2025), I administered business systems, took over outstanding CRM delivery requests, and supported the Salesforce-to-Zoho transition. My reported outcome was a reduction of approximately **$20K/month** in external development expense after delivery moved in-house.
 
 [![Preserved partial history: retained CRM entries and surviving workflow definitions](assets/profile/operations-evidence.svg)](docs/EXPERT-SOLAR.md)
 
-The legacy Zoho account preserves partial history of a previously functional system. Its full historical automation setup is unavailable for review. The savings figure is my reported business outcome, separate from the retained CRM records. [Review the evidence and limits](docs/EXPERT-SOLAR.md) · [SaaS administration, migration, and Apple MDM](docs/BACKGROUND.md)
+The legacy Zoho account preserves partial history of a previously functional system. Its full historical automation setup is unavailable for review. The savings figure is my reported business outcome, separate from the retained CRM records. [Review the evidence and limits](docs/EXPERT-SOLAR.md) · [Experience dates, SaaS administration, migration, and Apple MDM](docs/BACKGROUND.md)
 
 <h2 id="security-privacy"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Security, privacy, and engineering judgment</h2>
 
