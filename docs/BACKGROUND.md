@@ -23,7 +23,7 @@ I administered managed iPhones spanning iPhone X through iPhone 15 Pro Max, plus
 
 ## Salesforce credential status
 
-**Salesforce Administrator certification: lapsed; account restoration pending.** I completed Trailhead work while taking over internal delivery. The former employer's closure affected account access. Account recovery and current certification status are separate matters. Advanced Administrator certification status: unverified.
+Salesforce Administrator coursework (Trailhead), completed through a Salesforce boot camp, including the final course assessment.
 
 ## Current direction
 
