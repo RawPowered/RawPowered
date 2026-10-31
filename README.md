@@ -117,7 +117,7 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 <p><a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/project-titles/luxury-catalog.svg" alt="LuxuryCatalog: AI imagery and visual review" width="100%"></a></p>
 <a href="https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md"><img src="https://raw.githubusercontent.com/RawPowered/LuxuryCatalog/main/assets/brand/line-art-to-catalog.png" alt="Supplied door drawing alongside light and dark rendered catalog variants" width="100%"></a>
 <p><strong>My work:</strong> translated supplied door drawings into a repeatable AI-assisted imagery workflow, with material guides, targeted corrections, finish variants, and catalog publishing.</p>
-<p><strong>Evidence:</strong> preserved inputs, review criteria, dated interface captures, source, and selected redacted pages from a 78-page catalog. The examples document retained work; they are not a newly executed generation run.</p>
+<p><strong>Evidence:</strong> preserved inputs, review criteria, dated interface captures, source, and selected redacted pages from a 78-page catalog. The examples come from retained work.</p>
 <p><a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="32"></a></p>
 <p><a href="https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md">Review the design process</a> · <a href="https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/GALLERY.md">Full gallery</a></p>
 </td>
