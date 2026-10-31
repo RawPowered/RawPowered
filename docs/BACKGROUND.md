@@ -21,7 +21,7 @@ My work has included Microsoft 365, Google Workspace, Salesforce, Zoho CRM, Slac
 
 I administered managed iPhones spanning iPhone X through iPhone 15 Pro Max, plus field tablets, with app restrictions, default app availability, and location settings for construction and sales teams. This describes hands-on Apple MDM work. Experience with other MDM vendors remains unverified.
 
-## Salesforce credential status
+## Salesforce training
 
 Salesforce Administrator coursework (Trailhead), completed through a Salesforce boot camp, including the final course assessment.
 
