@@ -38,7 +38,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <p><a href="https://github.com/RawPowered/Sunprise-WordPress-Case-Study"><img src="assets/profile/actions/sunprise-case.svg" alt="Sunprise: migration and WordPress case study" width="48%"></a> <a href="https://rawpowered.github.io/Sunprise-WordPress-Case-Study/"><img src="assets/profile/actions/sunprise-visual.svg" alt="Sunprise: explore the visual case study" width="48%"></a></p>
 <p><strong>Latest builds:</strong> BlueRoof roofing theme and Sales Partner Onboarding, with configurable roles, private intake, and application review, plus the Sunlectric solar theme.</p>
 <p><a href="https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase"><img src="assets/profile/actions/blueroof-theme.svg" alt="BlueRoof: custom WordPress theme showcase" width="48%"></a> <a href="https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase"><img src="assets/profile/actions/sales-onboarding.svg" alt="Sales Partner Onboarding: standalone WordPress plugin showcase" width="48%"></a><br>
-<a href="https://github.com/RawPowered/SolHydrix-Showcase"><img src="assets/profile/actions/solhydrix-site.svg" alt="SolHydrix: custom WordPress website showcase" width="48%"></a> <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild"><img src="assets/profile/actions/roofrooftexas.svg" alt="RoofRoofTexas: website rebuild case study" width="48%"></a><br>
+<a href="https://github.com/RawPowered/SolHydrix-Showcase"><img src="assets/profile/actions/solhydrix-site.svg" alt="SolHydrix: custom WordPress website showcase" width="48%"></a> <br>
 <a href="https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase"><img src="assets/profile/actions/sunlectric-theme.svg" alt="Sunlectric: custom WordPress theme showcase" width="48%"></a></p>
 <p><a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio">Explore the full web and WordPress portfolio →</a></p>
 </td>
@@ -88,7 +88,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 | **AI Tutor / AI Design Tutor / design QA** | [Ten visual rejection decisions](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md) · [LuxuryCatalog review and refinement](https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md) · [Interface critique and rubric](https://github.com/RawPowered/Design-Judgment-Portfolio/blob/main/docs/WALKTHROUGH.md) |
 | **Applied AI / evaluation workflows** | [RawGraded image assessment](https://github.com/RawPowered/RawGraded) · [XRepHunter review signals](https://github.com/RawPowered/XRepHunter) · [Prompt and evaluation guide](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite) |
 | **Systems / IT / CRM / automation** | [Expert Solar systems ownership](docs/EXPERT-SOLAR.md) · [Sunprise migration](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Flow Fountain source](https://github.com/RawPowered/flow-fountain-for-crms) · [305UGC intake and CRM](https://github.com/RawPowered/305UGC-Showcase) · [PowerPortals](https://github.com/RawPowered/PowerPortals-Showcase) · [API and automation cases](https://github.com/RawPowered/API-Integration-Automation-Portfolio) |
-| **Web / product / UI and UX** | [Sunprise WordPress case](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Sunlectric WordPress theme](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) · [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) · [Sales Partner Onboarding plugin](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) · [SolHydrix website](https://github.com/RawPowered/SolHydrix-Showcase) · [RoofRoofTexas rebuild](https://github.com/RawPowered/RoofRoofTexas-Rebuild) |
+| **Web / product / UI and UX** | [Sunprise WordPress case](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Sunlectric WordPress theme](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) · [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) · [Sales Partner Onboarding plugin](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) · [SolHydrix website](https://github.com/RawPowered/SolHydrix-Showcase) |
 | **Game / narrative / creative development** | [Crawl Brawl gameplay](https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame) · [Civilian 66 design](https://github.com/RawPowered/Game-Design-Portfolio) · [Earth To Jay script](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain) |
 | **Product design / marketing / operations** | [The Moun design archive](https://github.com/RawPowered/TheMoun) · [Marketing and SEO evidence](https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio) · [Construction and sales operations](docs/OPERATIONS.md#construction-and-sales-operations) |
 
@@ -144,7 +144,7 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 <p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/project-titles/powerportals.svg" alt="PowerPortals project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/powerportals-preview.png" alt="PowerPortals project selection tour using fictional records" width="100%"></a>
 <p>Designed configurable project intake, customer and team workspaces, and Zoho companion widgets.</p>
-<p><strong>Evidence:</strong> fictional-data product tours and design decisions. Private validation; commercial installation is reviewed separately.</p>
+<p><strong>Evidence:</strong> fictional-data product tours and design decisions. Tested &amp; In Development / Pre-Release; customer-specific acceptance remains pending.</p>
 <p><a href="https://github.com/RawPowered/PowerPortals-Showcase"><img src="assets/profile/actions/power-project.svg" alt="PowerPortals project" height="32"></a> <a href="https://github.com/RawPowered/PowerPortals-Showcase#product-tour"><img src="assets/profile/actions/product-tour.svg" alt="Product tour" height="32"></a> <a href="docs/DESIGN.md#powerportals-make-a-complex-request-approachable"><img src="assets/profile/actions/design-review.svg" alt="Design review" height="32"></a></p>
 </td>
 </tr>
@@ -178,7 +178,7 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 <h3 id="305ugc-suite">305UGC Suite</h3>
 <p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/project-titles/305ugc.svg" alt="305UGC Suite project" width="100%"></a></p>
 <a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/305ugc-preview.png" alt="Capture of the public 305UGC website" width="100%"></a>
-<p>Built a responsive construction website and guided project intake, with a documented WordPress–Zoho CRM architecture.</p>
+<p>Built a responsive construction website and guided project intake, with a documented WordPress-Zoho CRM architecture.</p>
 <p><strong>Evidence:</strong> desktop/mobile website captures and integration walkthrough. <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/PROJECT-STATUS.md">Project scope</a>: full customer-flow acceptance remains pending.</p>
 <p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-project.svg" alt="305UGC project" height="32"></a> <a href="https://github.com/RawPowered/Web-Experience-WordPress-Portfolio"><img src="assets/profile/actions/web-mobile.svg" alt="Web and mobile case" height="32"></a> <a href="https://github.com/RawPowered/305UGC-Showcase/blob/main/docs/CRM-AND-AUTOMATION.md"><img src="assets/profile/actions/crm-integration.svg" alt="CRM integration" height="32"></a></p>
 </td>
@@ -193,7 +193,7 @@ Start with a flagship migration and WordPress case, then explore selected exampl
 </tr>
 </table>
 
-<p><strong>More systems cases:</strong> <a href="https://github.com/RawPowered/RawOps-Suite">RawOps Suite</a> covers a historical business platform, redacted screens, and source. <a href="https://github.com/RawPowered/StrikeScope">StrikeScope</a> covers CRM access controls and platform architecture. <a href="https://github.com/RawPowered/RoofRoofTexas-Rebuild">RoofRoofTexas</a> adds a documented web rebuild and before/after design.</p>
+<p><strong>More systems cases:</strong> <a href="https://github.com/RawPowered/RawOps-Suite">RawOps Suite</a> covers a historical business platform, redacted screens, and source. <a href="https://github.com/RawPowered/StrikeScope">StrikeScope</a> covers CRM access controls and platform architecture. <a href="https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase">BlueRoof</a> adds a roofing WordPress theme design preview and dated performance evidence.</p>
 
 <h3 id="creative-and-interactive-work">Creative and interactive work</h3>
 
