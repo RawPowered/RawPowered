@@ -14,7 +14,7 @@ I build business systems, connected workflows, and web interfaces, with design d
 
 <p><a href="https://github.com/RawPowered/305UGC-Showcase"><img src="assets/profile/actions/ugc-case.svg" alt="305UGC website, intake, and CRM showcase" height="34"></a> <a href="https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase"><img src="assets/profile/actions/blueroof-theme.svg" alt="BlueRoof WordPress theme design preview" height="34"></a> <a href="https://github.com/RawPowered/StrikeScope"><img src="assets/profile/actions/strikescope.svg" alt="StrikeScope CRM architecture and access controls" height="34"></a></p>
 
-**Explore:** [All six categories](#find-your-route) · [Role guide](#start-here) · [Selected work](#featured-projects) · [More projects](#additional-projects) · [Operational experience](#operational-experience) · [How I work](#how-i-work)
+**Explore:** [All six categories](#find-your-route) · [Role guide](#start-here) · [Research](#research) · [Selected work](#featured-projects) · [More projects](#additional-projects) · [Operational experience](#operational-experience) · [How I work](#how-i-work)
 
 <h2 id="find-your-route"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Find your route</h2>
 
@@ -57,6 +57,7 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 <p><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/routes/ai.svg" alt="AI and emerging technology" width="100%"></a></p>
 <p align="center"><a href="docs/AI-AND-DESIGN.md"><img src="assets/profile/category-art/ai-emerging-technology.png" alt="Earth To Jay characters Jay and Hank, with Hank rendered as a large glass art piece." width="100%"></a></p>
 <p>Visual critique, AI-assisted products, model integration, research and content assessment, and image or video development. <a href="docs/AI-AND-DESIGN.md">Start with the AI and design reading guide</a>; model use and project stage are identified in each case.</p>
+<p><strong>New research:</strong> <a href="https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public">AI tokens, session memory, and drift</a> · <a href="https://github.com/RawPowered/Binance-Breach-Research">Cybersecurity incident research</a>. <a href="#research">Review the publications and visual guides</a>.</p>
 <p><a href="https://github.com/RawPowered/RawMarkets"><img src="assets/profile/actions/rawmarkets.svg" alt="RawMarkets overview" height="32"></a> <a href="https://github.com/RawPowered/RawGraded"><img src="assets/profile/actions/rawgraded.svg" alt="RawGraded Studio" height="32"></a> <a href="https://github.com/RawPowered/LuxuryCatalog"><img src="assets/profile/actions/luxury-catalog.svg" alt="LuxuryCatalog showcase" height="32"></a> <a href="https://github.com/RawPowered/XRepHunter"><img src="assets/profile/actions/xrephunter.svg" alt="XRepHunter showcase" height="32"></a> <a href="https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite"><img src="assets/profile/actions/gpt-suite.svg" alt="GPT-5.6 SOL guide" height="32"></a></p>
 <p><a href="https://github.com/RawPowered/Grok-Bot-Templates"><img src="assets/profile/actions/grok-bot-templates.svg" alt="Grok Bot Templates" height="32"></a></p>
 </td>
@@ -88,10 +89,32 @@ Choose a discipline to explore the portfolio. Each route connects the projects, 
 |---|---|
 | **AI Tutor / AI Design Tutor / design QA** | [Ten visual rejection decisions](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/design-critique/README.md) · [LuxuryCatalog review and refinement](https://github.com/RawPowered/LuxuryCatalog/blob/main/docs/DESIGN-PROCESS.md) · [Interface critique and rubric](https://github.com/RawPowered/Design-Judgment-Portfolio/blob/main/docs/WALKTHROUGH.md) |
 | **Applied AI / evaluation workflows** | [RawGraded image assessment](https://github.com/RawPowered/RawGraded) · [XRepHunter review signals](https://github.com/RawPowered/XRepHunter) · [Prompt and evaluation guide](https://github.com/RawPowered/GPT-5.6-SOL-Enterprise-Master-Suite) |
+| **Research / cybersecurity / AI reliability** | [Cybersecurity source and attribution audit](https://github.com/RawPowered/Binance-Breach-Research) · [AI tokens, memory, and drift research](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public) · [Proposed evaluation protocol](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/EVALUATION_PROTOCOL.md) |
 | **Systems / IT / CRM / automation** | [Expert Solar systems ownership](docs/EXPERT-SOLAR.md) · [Sunprise migration](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Flow Fountain source](https://github.com/RawPowered/flow-fountain-for-crms) · [305UGC intake and CRM](https://github.com/RawPowered/305UGC-Showcase) · [PowerPortals](https://github.com/RawPowered/PowerPortals-Showcase) · [API and automation cases](https://github.com/RawPowered/API-Integration-Automation-Portfolio) |
 | **Web / product / UI and UX** | [Sunprise WordPress case](https://github.com/RawPowered/Sunprise-WordPress-Case-Study) · [Sunlectric WordPress theme](https://github.com/RawPowered/Sunlectric-Solar-WordPress-Showcase) · [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) · [Sales Partner Onboarding plugin](https://github.com/RawPowered/Sales-Partner-Onboarding-Showcase) · [SolHydrix design preview](https://github.com/RawPowered/SolHydrix-Showcase) |
 | **Game / narrative / creative development** | [Crawl Brawl gameplay](https://github.com/RawPowered/Crawl-Brawl#latest-gameplay-full-frame) · [Civilian 66 design](https://github.com/RawPowered/Game-Design-Portfolio) · [Earth To Jay script](https://github.com/RawPowered/Earth-To-Jay-Portfolio/blob/main/script-sample/opening-excerpt.fountain) |
 | **Product design / marketing / operations** | [The Moun design archive](https://github.com/RawPowered/TheMoun) · [Marketing and SEO evidence](https://github.com/RawPowered/Marketing-SEO-Performance-Portfolio) · [Construction and sales operations](docs/OPERATIONS.md#construction-and-sales-operations) |
+
+<h2 id="research"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Research and technical communication</h2>
+
+I synthesize source material into structured research, claim reviews, and visual explanations. These publications connect evidence appraisal with clear technical communication.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Cybersecurity incident research</h3>
+<a href="https://github.com/RawPowered/Binance-Breach-Research"><img src="https://raw.githubusercontent.com/RawPowered/Binance-Breach-Research/main/assets/social/cover.png" alt="RawPowered Binance breach research: cybersecurity, cryptocurrency, and consequences" width="100%"></a>
+<p>Independent public-source research examining attribution, reported attack mechanics, asset tracing, and response. The case includes a source register, claim audit, alternative-explanation checks, and a November 2, 2026 evidence update.</p>
+<p><a href="https://github.com/RawPowered/Binance-Breach-Research">Explore the research</a> · <a href="https://github.com/RawPowered/Binance-Breach-Research/blob/main/attribution/README.md">Attribution audit</a> · <a href="https://github.com/RawPowered/Binance-Breach-Research/blob/main/updates/2026-11-02/README.md">Latest evidence review</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>AI tokens, memory, and reliability</h3>
+<a href="https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public"><img src="https://raw.githubusercontent.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/main/assets/ai-model-drift-research-banner.png" alt="RawPowered Research: tokens, session memory, and hallucination drift" width="100%"></a>
+<p>A cited literature synthesis with illustrative models of first-error risk, error persistence, and recovery. Four reviewed educational graphics explain the concepts; a proposed evaluation protocol connects them to future measurement.</p>
+<p><a href="https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public">Read the research</a> · <a href="https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/GRAPHICS_REVIEW.md">Graphic review and sources</a> · <a href="https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/EVALUATION_PROTOCOL.md">Evaluation protocol</a></p>
+</td>
+</tr>
+</table>
 
 <h2 id="featured-projects"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Selected work</h2>
 
@@ -253,6 +276,8 @@ The legacy Zoho account preserves partial history of a previously functional sys
 ![Access boundaries, scoped credentials, and server-side privacy controls](assets/profile/security-boundaries.svg)
 
 I separate sign-in from record access, keep integration credentials server-side, and define which fields an endpoint may return. [Review the diagrams and verification scope](docs/SECURITY-AND-PRIVACY.md).
+
+My [cybersecurity incident research](https://github.com/RawPowered/Binance-Breach-Research) complements these implementation cases with public-source analysis, attribution review, and structured claim assessment.
 
 <h2 id="how-i-work"><img src="assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> How I work</h2>
 
