@@ -20,6 +20,16 @@ Start with the kind of judgment your role needs. These are portfolio examples of
 - [Civilian 66](https://github.com/RawPowered/Game-Design-Portfolio): world, character, progression, and implementation-aware design; independent game in development.
 - [The Moun / Grade Station](https://github.com/RawPowered/TheMoun): physical design, brand direction, CAD/editor references, electrical diagrams, and manufacturing planning; product development rather than verified manufacturing readiness.
 
+## AI tokens, memory, and reliability research
+
+[Tokens, Session Memory & Hallucination Drift](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public) is a cited literature synthesis covering context utilization, memory mechanisms, first-error risk, and recovery. It brings together four reviewed educational graphics, illustrative probability models, and a proposed evaluation protocol.
+
+- [Graphic review and primary sources](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/GRAPHICS_REVIEW.md): the wording decisions, mathematical checks, and source support behind the presentation.
+- [Evaluation protocol](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/EVALUATION_PROTOCOL.md): proposed tests for recall, unsupported claims, error persistence, and recovery.
+- [Graph methodology](https://github.com/RawPowered/ai-token-memory-drift-hallucination-research-2026-public/blob/main/GRAPH_METHODOLOGY.md): published model specifications and explicitly assumed sensitivity scenarios.
+
+The publication demonstrates research synthesis, technical explanation, and evaluation design. Its numerical risk examples are illustrative; new runtime benchmark results are not claimed.
+
 ## Applied AI and evaluation workflows
 
 | Project | What to review | Scope |
