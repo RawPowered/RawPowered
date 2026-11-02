@@ -89,3 +89,9 @@ flowchart LR
 | Portfolio privacy | Fictional or empty demo records, customer data and credentials excluded from public releases, and bounded evidence | Screenshots, diagrams and documentation are labeled according to what they establish. |
 
 These examples document access-control design, server-side data minimization, credential separation, and release checks. Independent penetration testing, universal security guarantees, and regulatory certification fall outside the evidence presented.
+
+## Cybersecurity incident research
+
+[Binance Breach Research](https://github.com/RawPowered/Binance-Breach-Research) adds public-source incident analysis to the implementation cases above. The study organizes source roles, reported attack mechanics, asset-tracing claims, response milestones, and alternative explanations into a reviewable evidence record.
+
+Start with the [attribution audit](https://github.com/RawPowered/Binance-Breach-Research/blob/main/attribution/README.md), the [November 2, 2026 evidence update](https://github.com/RawPowered/Binance-Breach-Research/blob/main/updates/2026-11-02/README.md), or the [visual guide](https://github.com/RawPowered/Binance-Breach-Research/blob/main/GALLERY.md). This is independent research synthesis; it distinguishes cited reports from independently verified forensic findings.
