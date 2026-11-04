@@ -4,6 +4,20 @@
 
 My interface work connects a clear first impression to a useful next step: understand the service, describe the work, provide context, and continue with appropriate feedback. The reviews examine visible work and identify the next usability checks.
 
+## PowerPortals film: guide attention through motion
+
+[Watch the finished 1:54 presentation](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/blob/main/media/versions/31.mp4) · [Explore 17 annotated critiques](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/blob/main/docs/critique-index.md)
+
+![Original silent workflow-build excerpt](https://raw.githubusercontent.com/RawPowered/power-portals-ai-video-presentation-showcase/main/assets/motion/workflow-build.gif)
+
+**The task:** explain a connected contractor-workflow platform to a buyer using a few words and a clear visual action at a time.
+
+**My direction:** replace boxed layouts with free-standing typography, show a trigger before its downstream actions, make task ownership visible, and carry one orange focal object through scene transitions. Later revisions tightened text alignment, reading holds, motion paths, buyer payoffs and sound timing.
+
+**The judgement:** a transition can be technically continuous and still demand too much visual tracking. The direct circle-to-slash revision removed an intermediate tiny-dot detour. The [critique record](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/blob/main/docs/critiques/10.md) preserves the instruction, actual frames and the reason the earlier treatment was superseded.
+
+**The evidence:** a finished film, early animatic, 17 annotated comparisons, authentic source frames, motion excerpts and outtake reasons. The analysis is retrospective. Illustrated task owners and replies communicate behavior; the presentation does not establish live execution of every product workflow or measured sales outcomes.
+
 ## 305UGC: connect the front door to the request
 
 ![Public 305UGC website preview crop](../assets/profile/305ugc-preview.png)

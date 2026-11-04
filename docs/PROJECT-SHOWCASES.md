@@ -2,6 +2,14 @@
 
 These project summaries give recruiters a direct route into the work. Each page should show the problem, the product or system built, the author's contribution, the evidence available, and the current project status.
 
+## Motion design and AI art direction
+
+### PowerPortals commercial and design process
+
+[Watch the film and explore the process](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase) · [17 annotated critiques](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/blob/main/docs/critique-index.md) · [Design-tutor method](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/blob/main/docs/design-tutor-method.md)
+
+Human creative direction and AI-assisted production turned a broad contractor-software walkthrough into a benefit-led 1:54 presentation. The public case shows the final film, early animatic, authentic before/after render frames, selected feedback and reasons for outtakes. Review typography, pacing, progressive workflow animation, object continuity, buyer messaging and sound decisions. The critique overlays are retrospective; the complete production archive remains private.
+
 ## AI, models, and applied systems
 
 ### XRepHunter
