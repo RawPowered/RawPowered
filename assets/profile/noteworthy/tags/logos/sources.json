@@ -1,0 +1,95 @@
+{
+  "devicon_commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+  "icons": [
+    {
+      "name": "react",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/react/react-original.svg",
+      "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "typescript",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg",
+      "sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "nodejs",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/nodejs/nodejs-original.svg",
+      "sha256": "3218687c5ea24a4d4c0a33dc5c287da38c33a72dcfe9382469d7ce4e0bf661fb",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "javascript",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/javascript/javascript-original.svg",
+      "sha256": "0656ff65fc8eeacda5c78d7f9ffe91ec1eb919db64f56e0b7dcd460af4bbd36c",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "mysql",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/mysql/mysql-original.svg",
+      "sha256": "f73fa5d6b9da33fbf540ff96f5360c24b6d29d883ecfe6fcaecf89a8d3456067",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "php",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/php/php-original.svg",
+      "sha256": "f22619a19c99a123e4678d71826f65f223721a739631dff46de39827c9ee0633",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "wordpress",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/wordpress/wordpress-original.svg",
+      "sha256": "42f73bd829bf978a8c4e4ee45d834e8d316e3ecaa2554846f33df67088a5b810",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "electron",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/electron/electron-original.svg",
+      "sha256": "b5cae00151e368734a36f261dc9a497a93bacad07cf609d75321ccd7e186a50a",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "godot",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/godot/godot-original.svg",
+      "sha256": "98a19dc824149586a91d44247cab863da19a2974477b9d747339694de38ccf19",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "python",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/python/python-original.svg",
+      "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "markdown",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/markdown/markdown-original.svg",
+      "sha256": "9d0c0aeff8d36500dd4023a50bf9bfd7152541402eab1ae8fcd7b86cdcb91853",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "salesforce",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/salesforce/salesforce-original.svg",
+      "sha256": "bf8de61a70a6967bf12b2f37aeb57a86893e930a0d1ffe86e35a5a3b3fd4f2f4",
+      "license": "Devicon MIT; marks belong to their owners."
+    },
+    {
+      "name": "zoho",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/e451c581fccb01b56f47e1a77292bdd1fd95b1a4/icons/zoho.svg",
+      "sha256": "6571537c1ebb1c0cbea06d94c403d7e4e0685499c963996b559485d5aa013b9b",
+      "license": "Simple Icons CC0; marks belong to their owners."
+    },
+    {
+      "name": "openai",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cf471df7755a247c90fc615cdeb4b14daf678e6b/icons/openai.svg",
+      "sha256": "2b4a04ddc2395b20d168694d3850ce2050a702c4a0cdeb4d8b31b9a970481a8c",
+      "license": "Simple Icons CC0; marks belong to their owners."
+    },
+    {
+      "name": "google",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/google/google-original.svg",
+      "sha256": "a8ec042934c876b60fb8120bddd526d4ef8b10b8a4ff89b881d427ed866275fb",
+      "license": "Devicon MIT; Google mark identifies the Google Workspace platform."
+    }
+  ]
+}

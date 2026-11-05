@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="44" viewBox="0 0 184 44" role="img"><title>Connect on LinkedIn</title><path d="M8 1H174l9 9v25l-8 8H8L1 35V9Z" fill="#edf1f5" stroke="#7b8b97"/><path d="M8 2h51" stroke="#abff3f" stroke-width="3"/><g transform="translate(12,7) scale(0.06114462742540356)">
+  <defs>
+    <style>
+      .stamp-eye {
+        fill: #abff3f;
+      }
+
+      .stamp-body {
+        fill: url(#stamp-gradient);
+      }
+    </style>
+    <radialGradient id="stamp-gradient" cx="201.71" cy="245.32" fx="201.71" fy="245.32" r="224.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path class="stamp-body" d="M211.13,0c7.7,28.57,23.43,51.34,29.01,80.4,6.65,34.61-36.47,76.62-71.39,71.83-34.92-4.78-58.05-48.53-42.34-80.08C38.96,171.43-66.81,322.74,55.3,439.93c67.61,64.89,183.36,66.62,258.18,10.21,74.83-56.42,105.8-161.38,82.12-252.05C371.92,107.42,298.65,33.51,211.13,0Z"/>
+      <path class="stamp-eye" d="M274.61,273.81c-.98,18.18.83,37,1.62,55.42,1.72,22.32.63,47.99,9.95,68.74,13.99,27.7,38.31,16.51,44.02-9.63,4.1-16.54,3.32-34.02,2.9-50.93-1.14-22.72-.02-46.79-7.41-68.69-10.58-32.37-48.36-30.74-51.05,4.73l-.03.36Z"/>
+      <path class="stamp-eye" d="M151.89,273.81c-.98,18.18.83,37,1.62,55.42,1.72,22.32.63,47.99,9.95,68.74,13.99,27.7,38.31,16.51,44.02-9.63,4.1-16.54,3.32-34.02,2.9-50.93-1.14-22.72-.02-46.79-7.41-68.69-10.58-32.37-48.36-30.74-51.05,4.73l-.03.36Z"/>
+    </g>
+  </g>
+</g><text x="48" y="29" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#17212b">LinkedIn</text><path d="M151 22h17m-6-6 6 6-6 6" stroke="#436700" stroke-width="2" fill="none"/></svg>
